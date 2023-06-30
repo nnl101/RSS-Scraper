@@ -1,0 +1,538 @@
+ID,done,Name,url,rss,tags,region,status,notes,element_name,attribute_name,attribute_content,last_scraped,total_scraped
+1.0,done,New York Times,nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,big_news,,,,main,id,site-content,6/20/2023 20:37,40
+1.3,done,New York Times (Europe),nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,big_news,,,,main,id,site-content,6/29/2023 20:37,81
+1.5,done,New York Times (New York),nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml,local,,,,main,id,site-content,6/29/2023 20:37,81
+1.4,done,New York Times (Asia-Pacific),nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,big_news,,,,main,id,site-content,6/29/2023 20:37,21
+1.2,done,New York Times (Energy),nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml,"big_news, energy",,,,main,id,site-content,6/29/2023 20:37,64
+1.1,done,New York Times (Environment),nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml,"big_news, env",,,,main,id,site-content,6/29/2023 20:38,390
+2.0,done,Washington Post (Global),washingtonpost.com,http://feeds.washingtonpost.com/rss/world,big_news,,,extremely slow,div,class,article-body,7/23/2021 6:28,51
+2.1,done,Washington Post (National),washingtonpost.com,http://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_39,big_news,,,extremely slow,div,class,article-body,,0
+3.0,done,The Christian Science Monitor (Environment),csmonitor.com,https://rss.csmonitor.com/feeds/environment,"news, env",,,,article,id,story-content,8/28/2021 9:38,34
+3.1,done,The Christian Science Monitor,csmonitor.com,https://rss.csmonitor.com/feeds/all,news,,,,,,,,0
+4.0,done,USA Today,usatoday.com,http://rssfeeds.usatoday.com/usatoday-NewsTopStories,big_news,,,,main,class,gnt_cw,7/23/2021 6:41,74
+6.0,done,Los Angeles Times,latimes.com,https://www.latimes.com/california/rss2.0.xml,big_news,,,,div,class,page-article-body,8/23/2021 10:17,100
+7.0,done,Los Angeles Times (Environment),latimes.com,https://www.latimes.com/environment/rss2.0.xml#nt=1col-7030col1,"big_news, env",,,,div,class,rich-text-article-body,8/28/2021 9:38,202
+9.0,done,Chicago Tribune,chicagotribune.com,https://www.chicagotribune.com/arcio/rss/category/news/breaking/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link,big_news,,,,section,id,left,7/23/2021 6:41,53
+10.0,done,Houston Chronicle,chron.com,https://www.chron.com/rss/feed/News-270.php,big_news,,,,article,class,article--content,7/23/2021 6:42,25
+11.0,done,Houston Chronicle (Energy),chron.com,https://www.chron.com/rss/feed/Energy-288.php,"big_news, energy",,,,article,class,article--content,12/11/2021 0:42,56
+12.0,done,Dallas Morning News,dallasnews.com,,big_news,,,,,,,,0
+15.0,done,The Boston Globe ,bostonglobe.com,,big_news,,,,,,,,0
+16.0,done,NJ Star Ledger,nj.com,,local,,,,,,,,0
+18.0,done,The Philadelphia Inquirer & Inquirer.com,inquirer.com,,local,,,,,,,,0
+19.0,done,The Minneapolis Star Tribune,startribune.com,https://www.startribune.com/local/index.rss2,local,,,,div,class,article-body resizeFont,7/19/2021 9:55,24
+21.0,done,Detriot Free Press,freep.com,http://rssfeeds.freep.com/freep/home,local,,,,article,class,gnt_pr,7/19/2021 9:55,30
+22.0,done,Tampa Bay Times,tampabay.com,,local,,,,,,,,0
+23.0,done,The Oregonian,oregonlive.com,,local,,,,,,,,0
+26.0,done,The Sacramento Bee,sacbee.com,https://feeds.mcclatchy.com/sacbee/stories,local,,,,,,,,0
+28.0,done,Miami Herald,miamiherald.com,https://feeds.mcclatchy.com/miamiherald/stories,local,,,,,,,,0
+35.0,done,San Jose Mercury News,mercurynews.com,https://www.mercurynews.com/feed/,local,,,,div,class,article-body,7/19/2021 9:55,23
+36.0,done,San Jose Mercury News (Environment),mercurynews.com,https://www.mercurynews.com/news/environment/feed/,"local, env",,,,div,class,article-body,8/28/2021 9:39,94
+39.0,done,South Florida Sun Sentinel,sun-sentinel.com,https://www.sun-sentinel.com/arcio/rss/category/local/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link,local,,,,section,id,left,7/19/2021 9:55,29
+40.0,done,Seattle Times,seattletimes.com,https://www.seattletimes.com/feed/,local,,,,,,,,0
+42.0,done,Seattle Times (Science),seattletimes.com,https://www.seattletimes.com/science/feed/,"local, science",,,,,,,,0
+41.0,done,Columbus Dispatch,dispatch.com,,local,,,,,,,,0
+43.0,done,The Oklahoman,oklahoman.com,,local,,,,,,,,0
+45.0,done,Pittsburgh Post-Gazette,powersource.post-gazette.com,https://www.post-gazette.com/rss,local,,,,,,,,0
+50.0,done,Detroit News,detroitnews.com,http://rssfeeds.detroitnews.com/detroit/home,local,,,,article,class,gnt_pr,7/19/2021 9:55,37
+53.0,done,Richmond Times,richmond.com,https://richmond.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc,local,,,,div,id,asset-content,7/19/2021 9:15,10
+63.0,done,The press-Enterprise,pe.com,https://www.pe.com/feed/,local,,,,div,class,article-body,7/20/2021 2:00,38
+62.0,done,The press-Enterprise (Environment),pe.com,https://www.pe.com/news/environment/feed/,"local, env",,,,div,class,article-body,8/28/2021 9:39,65
+64.0,done,Las Vegas Review - Journal,reviewjournal.com,https://www.reviewjournal.com/feed/,local,,,,div,class,entry-content,7/20/2021 2:00,89
+101.0,done,Washington Times,washingtontimes.com,https://www.washingtontimes.com/rss/headlines/news/,news,,,,div,class,bigtext,7/20/2021 2:00,22
+104.0,done,The Daily Herald (Illinois),dailyherald.com,https://www.dailyherald.com/rss/feed/?feed=news_top5,local,,,,div,id,articleBody,7/20/2021 2:01,7
+111.0,done,Think Progress,thinkprogress.org,https://archive.thinkprogress.org/links/feed.xml,news,,,,,,,,0
+113.0,done,Talking Points Memo,talkingpointsmemo.com,https://talkingpointsmemo.com/feed/atom,news,,,,div,id,article-content,6/29/2023 20:46,12
+150.0,done,DCist,dcist.com,https://dcist.com/feed/,local,,,,,,,,0
+215.0,done,CQ & Roll Call,rollcall.com,https://rollcall.com/feed,news,,,,,,,,0
+401.0,done,The New Republic,newrepublic.com,https://newrepublic.com/rss.xml,news,,,,,,,,0
+419.0,done,The American Prospect,prospect.org,https://prospect.org/api/rss/all.rss,news,,,,div,id,content,8/23/2021 10:17,31
+449.0,done,UN Dispatch,undispatch.com,https://www.undispatch.com/feed/,,,,,div,id,main,7/20/2021 2:01,1
+798.0,done,FactCheck,factcheck.org,https://www.factcheck.org/feed/,,,,,main,class,site-main,7/20/2021 2:01,1
+1089.0,done,Reuters,reuters.com,https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best,big_news,,,,,,,,0
+1089.1,done,Reuters (Environment),reuters.com,https://www.reutersagency.com/feed/?best-topics=environment&post_type=best,"big_news, env",,,,,,,,0
+1089.2,done,Reuters (Energy),reuters.com,https://www.reutersagency.com/feed/?best-sectors=commodities-energy&post_type=best,"big_news, energy",,,,,,,,0
+1094.0,done,BBC UK,bbc.co.uk,http://feeds.bbci.co.uk/news/rss.xml?edition=uk,"big_news, uk",,,,main,id,main-content,7/20/2021 2:23,103
+1093.0,done,BBC (Environment),bbc.co.uk,http://feeds.bbci.co.uk/news/science_and_environment/rss.xml,"big_news, uk, env",,,,main,id,main-content,8/12/2021 11:24,87
+1090.0,done,BBC,bbc.co.uk,http://feeds.bbci.co.uk/news/rss.xml,big_news,,,,main,id,main-content,,0
+1095.0,done,CNN,us.cnn.com,http://rss.cnn.com/rss/cnn_topstories.rss,big_news,,,,div,class,l-container,7/20/2021 2:04,103
+1096.0,done,NPR,npr.org,https://feeds.npr.org/1001/rss.xml,news,,,,article,class,story,7/20/2021 2:05,15
+1098.0,done,Newsweek,newsweek.com,https://www.newsweek.com/rss,news,,,,,,,,0
+1100.0,done,US News,usnews.com,,,,,,,,,,0
+1101.0,done,The New Yorker,newyorker.com,https://www.newyorker.com/feed/everything,news,,,,article,class,article main-content,7/20/2021 2:05,50
+1104.0,done,Forbes,forbes.com,,news,,,,,,,,0
+1105.0,done,Fortune,fortune.com,https://fortune.com/feed,news,,,,,,,,0
+1106.0,done,Economist (International),economist.com,https://www.economist.com/international/rss.xml,big_news,,,,main,id,content,,0
+1106.5,done,Economist (China),economist.com,https://www.economist.com/china/rss.xml,"big_news, china",,,,main,id,content,,0
+1106.6,done,Economist (Asia),economist.com,https://www.economist.com/asia/rss.xml,big_news,,,,main,id,content,,0
+1106.1,done,Economist (USA),economist.com,https://www.economist.com/united-states/rss.xml,big_news,,,,main,id,content,,0
+1106.2,done,Economist (Europe),economist.com,https://www.economist.com/europe/rss.xml,big_news,,,,main,id,content,,0
+1106.3,done,Economist (Britain),economist.com,https://www.economist.com/britain/rss.xml,big_news,,,,main,id,content,,0
+1106.4,done,Economist (Science & Tech),economist.com,https://www.economist.com/science-and-technology/rss.xml,"big_news, science",,,,main,id,content,,0
+1106.7,done,Economist (World),economist.com,https://www.economist.com/the-world-this-week/rss.xml,big_news,,,,main,id,content,,0
+1106.8,done,Economist (UK),economist.com,https://www.economist.com/britain/rss.xml,big_news,uk,,,main,id,content,,0
+1110.0,done,The Atlantic,theatlantic.com,https://www.theatlantic.com/feed/all/,big_news,,,,main,id,main-content,,0
+1112.0,done,Mother Jones,motherjones.com,http://feeds.feedburner.com/motherjones/feed,news,,,,article,class,entry-content,2023-06-29 20:49:58,10
+1113.0,done,Mother Jones,motherjones.com,https://www.motherjones.com/environment/feed/,"news, env",,,,div,id,main-inner,8/12/2021 11:24,33
+1133.0,done,Common Dreams,commondreams.org,https://www.commondreams.org/rss.xml,news,,,,div,class,page__content,7/8/2021 12:53,0
+1147.0,done,Media Matters for America,mediamatters.org,,,,,,,,,,0
+1149.0,done,MSNBC,msnbc.com,https://feeds.nbcnews.com/msnbc/public/news,big_news,,,,,,,,0
+1150.1,done,Wall Street Journal (World News),wsj.com,https://feeds.a.dj.com/rss/RSSWorldNews.xml,big_news,,,,,,,,0
+1150.0,done,Wall Street Journal (US News),wsj.com,https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml,big_news,,,,,,,,0
+1154.0,done,Associated Press,apnews.com,,big_news,,,,,,,,0
+1317.0,done,The Observer,theobserver.com,https://observer.com/feed/,local,,,,div,class,entry-content,6/25/2021 19:21,0
+1392.0,done,Portland Tribune,pamplinmedia.com,https://pamplinmedia.com/component/obrss/portland-tribune,local,,,,div,id,articleText,8/23/2021 10:08,30
+1707.0,done,The Daily Beast,thedailybeast.com,https://feeds.thedailybeast.com/rss/articles,news,,,,div,class,Body__content,6/25/2021 20:12,0
+1708.0,done,Deutsche Welle,dw.com,https://rss.dw.com/rdf/rss-en-all,news,germany,,,div,id,bodyContent,2023-06-29 20:50:23,159
+1709.0,done,Deutsche Welle (Environment),dw.com,https://rss.dw.com/xml/rss_en_environment,"news, env",germany,,,div,class,longText,8/12/2021 11:24,41
+1713.0,done,Bloomberg,bloomberg.com,,big_news,,,,,,,,0
+1747.0,done,Daily Mail,dailymail.co.uk,https://www.dailymail.co.uk/articles.rss,news,,,,,,,,0
+1748.0,done,Daily Mail (Science & Tech),dailymail.co.uk,https://www.dailymail.co.uk/sciencetech/index.rss,"news, science",uk,,,,,,,0
+1750.0,done,The Daily Telegraph,telegraph.co.uk,https://www.telegraph.co.uk/rss.xml,big_news,uk,,,,,,,0
+1751.0,done,The Daily Telegraph (Environment),telegraph.co.uk,https://www.telegraph.co.uk/environment/rss.xml,"big_news, env",uk,,,div,class,component article-body-text,,0
+1755.0,done,CNBC,cnbc.com,https://www.cnbc.com/id/100003114/device/rss/rss.html,big_news,,,,div,class,ArticleBody-articleBody,6/25/2021 19:00,0
+1756.0,done,CNBC (Energy),cnbc.com,https://www.cnbc.com/id/19836768/device/rss/rss.html,big_news,energy,,,,,,,0
+1757.0,done,Salon,salon.com,https://www.salon.com/feed,news,,,,,,,,0
+4419.0,done,Brussels Times,brusselstimes.com,http://www.brusselstimes.com/feed/,news,belgium,,,,,,,0
+4419.0,done,Time,time.com,https://time.com/feed/,news,,,,,,,,0
+4425.0,done,Slate,slate.com,https://slate.com/feeds/all.rss,news,,,,div,class,article__content,6/25/2021 20:17,0
+4434.0,done,Wired ,wired.com,https://www.wired.com/feed/rss,tech,,,,div,class,article__chunks,6/17/2021 0:00,0
+4456.0,done,Scientific American,scientificamerican.com,http://rss.sciam.com/ScientificAmerican-Global,science,,,,div,class,article-block article-text,6/16/2021 19:15,0
+4465.0,done,National Geographic,nationalgeographic.com,,science,,,,,,,,0
+4469.0,done,Gizmodo,gizmodo.com,https://gizmodo.com/rss,tech,,,,div,class,js_starterpost,6/17/2021 1:30,0
+4763.0,done,Yahoo,news.yahoo.com,https://www.yahoo.com/news/rss,news,,,,div,class,caas-content-wrapper,6/17/2021 0:03,0
+5521.0,done,Rolling Stone,rollingstone.com,https://www.rollingstone.com/feed/,,,,,div,class,l-article-content,6/16/2021 23:19,0
+5527.0,done,Mashable ,mashable.com,http://feeds.mashable.com/Mashable,,,,,div,class,post-content,6/16/2021 22:00,0
+5533.0,done,VTDigger,vtdigger.org,https://vtdigger.org/feed/,local,,,,,,,,0
+5534.0,done,VTDigger (Environment),vtdigger.org,https://vtdigger.org/category/environment/feed/,"local, env",,,,div,class,entry-content,8/12/2021 11:24,48
+5645.0,done,Tree Hugger,treehugger.com,,env,,,,,,,,0
+5846.0,done,HowStuffWorks,howstuffworks.com,https://syndication.howstuffworks.com/rss/HSW,,,,,div,class,page-content,6/16/2021 23:00,0
+5869.0,done,El Pais,elpais.com,https://elpais.com/rss/elpais/portada.xml,news,spain,,,div,class,articulo__contenedor,2/27/2020 15:13,0
+5870.0,done,El Pais (Environment),elpais.com,https://elpais.com/clima-y-medio-ambiente/,"news, env",spain,,,,,,,0
+5893.0,done,Harvard Business Review,hbr.org,http://feeds.hbr.org/harvardbusiness/,,,,,,,,,0
+6154.0,done,Jezebel,jezebel.com,https://jezebel.com/rss,,,,,,,,,0
+6218.0,done,Buzzfeed,buzzfeed.com,https://www.buzzfeed.com/index.xml,,,,,main,id,buzz-content,7/23/2021 6:27,89
+6363.0,done,Vanity Fair,vanityfair.com,https://www.vanityfair.com/feed/rss,,,,,,,,,0
+6443.0,done,Washington Examiner,washingtonexaminer.com,https://www.washingtonexaminer.com/tag/news.rss,news,,,,,,,,0
+6526.0,done,ABC News AU,abc.net.au,http://www.abc.net.au/news/feed/2942460/rss.xml,news,australia,,,,,,,0
+7333.0,,CBC,cbc.ca,https://www.cbc.ca/cmlink/rss-topstories,news,canada,,,div,class,story,1/20/2020 22:11,0
+18179.0,,The (Colorado Springs) Gazette,gazette.com,https://gazette.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc,local,,,,,,,,0
+18268.0,,Politico Europe,politico.eu,https://www.politico.eu/feed/,big_news,europe,,,,,,6/10/2021 15:00,0
+18267.0,,Politico Europe (Energy & Climate),politico.eu,https://www.politico.eu/section/energy/feed/,"big_news, env",europe,,,div,class,article__content,8/12/2021 11:18,64
+18269.0,,Politico (Energy & Climate),politico.com,https://rss.politico.com/energy.xml,"big_news, env",,,,div,class,page-content page-content--story story-type--core,8/9/2021 10:07,20
+18270.0,,Politico (Economy),politico.com,https://rss.politico.com/economy.xml,big_news,,,,,,,,0
+18380.0,,Digital Trends,digitaltrends.com,https://www.digitaltrends.com/feed/,tech,,,,div,class,b-page__inner,6/29/2023 20:43,30
+18641.0,,UCSUSA,ucsusa.org,https://ucsusa.org/rss.xml,env,,,,div,class,main-region,7/22/2021 7:20,11
+18687.0,,Adweek,adweek.com,https://www.adweek.com/feed/,,,,,,,,,0
+19038.0,,IEEE Spectrum,spectrum.ieee.org,https://spectrum.ieee.org/rss/fulltext,,,,,,,,,0
+19039.0,,IEEE Spectrum (Green Tech),spectrum.ieee.org,https://spectrum.ieee.org/rss/green-tech/fulltext,env,,,,,,,,0
+19040.0,,IEEE Spectrum (Energy),spectrum.ieee.org,https://spectrum.ieee.org/rss/energy/fulltext,energy,,,,,,,,0
+19183.0,,The Connecticut Mirror,ctmirror.org,https://ctmirror.org/feed/,local,,,,,,,,0
+19184.0,,The Connecticut Mirror (Environment),ctmirror.org,https://ctmirror.org/all-news/environment/feed/,"local, env",,,,div,class,single_page_content,8/12/2021 11:18,47
+19319.0,,Sydney Morning Herald,smh.com.au,https://www.smh.com.au/rss/feed.xml,news,australia,,,,,,,0
+19320.0,,Sydney Morning Herald (Environment),smh.com.au,https://www.smh.com.au/rss/environment.xml,"news, env",australia,,,main,id,content,9/27/2021 10:35,111
+19672.0,,PR Newswire (Environment),prnewswire.com,https://www.prnewswire.com/rss/environment-latest-news/environment-latest-news-list.rss,"news, env",,,,section,class,release-body container,6/29/2023 20:39,103
+19673.0,,PR Newswire,prnewswire.com,https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss,news,,,,,,,,0
+19831.0,,Der Spiegel,spiegel.de,https://www.spiegel.de/index.rss,big_news,germany,,,,,,,0
+19832.0,,Der Spiegel (Environment - German),spiegel.de,https://www.spiegel.de/schlagzeilen/index.rss,"big_news, env",germany,,,,,,,0
+19833.0,,Der Spiegel (Environment - English),spiegel.de,https://www.spiegel.de/thema/environment_en/index.rss,"big_news, env",germany,,,div,data-article-el,body,8/12/2021 11:10,53
+19834.0,,Der Spiegel (Climate crisis),spiegel.de,https://www.spiegel.de/thema/klimawandel/index.rss,"big_news, env",germany,,,,,,,0
+20000.0,,Taz (Environment),taz.de,https://taz.de/Oeko/Oekologie/!p4624;rss/,"news, env",germany,,,,,,,0
+20001.0,,Taz,taz.de,https://taz.de/!p4608;rss/,news,germany,,,,,,,0
+20120.0,,"NJ Advance Media, incl. The (New Jersey) Star-Ledger & NJ.com",nj.com,http://rssfeeds.northjersey.com/northjerseyenvironment,"local, env",,,,div,class,gnt_ar_b,8/12/2021 11:10,10
+20982.0,,Variety,variety.com,http://feeds.feedburner.com/variety/headlines,,,,,div,class,vy-cx-page-content,6/11/2021 3:00,0
+20982.0,,The Weather Channel Digital,weather.com,,,,,,div,class,vy-cx-page-content,6/11/2021 3:00,0
+21598.0,,The Believer,believermag.com,https://believermag.com/feed/,,,,,,,,,0
+21999.0,,In These Times,inthesetimes.com,,,,,,,,,,0
+22249.0,,London Free Press,lfpress.com,https://lfpress.com/feed,news,uk,,,main,id,main-content,6/11/2021 4:00,0
+23022.0,,PR Watch,prwatch.org,https://www.prwatch.org/taxonomy/term/4/all/feed,"news, env",,,,div,id,content,8/12/2021 11:10,19
+24503.0,,The Center for Public Integrity,publicintegrity.org,https://publicintegrity.org/feed,,,,,,,,,0
+24716.0,,Politicus USA,politicususa.com,http://www.politicususa.com/feed,,,,,,,,,0
+25459.0,,Capital ,investopedia.com,https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_articles,,,,,div,id,article-body_1-0,6/11/2021 4:31,0
+26140.0,,The Daily Hampshire Gazette (Massachusetts),gazettenet.com,https://www.gazettenet.com/SpecialPages/RSSHeadlines,local,,,,div,id,articlebody,6/11/2021 1:37,0
+26164.0,,Vice,vice.com,https://www.vice.com/en/rss?locale=en_us,news,,,,,,,,0
+26301.0,,The News-Press (Southwest Florida),news-press.com,http://rssfeeds.news-press.com/ftmyers/home,local,,,,div,class,gnt_ar_b,6/11/2021 1:07,0
+26782.0,,The Australian,theaustralian.com.au,https://www.theaustralian.com.au/feed/,news,australia,,,,,,,0
+27302.0,,KQED,kqed.org,https://ww2.kqed.org/news/feed/,local,,,,div,class,post-body,6/29/2023 20:39,39
+28336.0,,Gotham Gazette,gothamgazette.com,,local,,,,,,,,0
+28450.0,,City Limits,citylimits.org,https://citylimits.org/feed/,local,,,,,,,,0
+28907.0,,The Montgomery Advertiser,montgomeryadvertiser.com,https://rssfeeds.montgomeryadvertiser.com/montgomery/home,local,,,,,,,,0
+29440.0,,Tucson Sentinel (Environment),tucsonsentinel.com,http://www.tucsonsentinel.com/category/rss/environment/,"local, env",,,,div,id,storywrap,8/12/2021 11:10,139
+29441.0,,Tucson Sentinel,tucsonsentinel.com,http://www.tucsonsentinel.com/site/rss/,local,,,,,,,,0
+29757.0,,Phys.org,phys.org,https://phys.org/rss-feed/earth-news/environment/,science,,,,,,,,0
+30458.0,,Salem Statesman Journal,statesmanjournal.com,http://rssfeeds.statesmanjournal.com/salem/home,local,,,,,,,,0
+31137.0,,The Real News Network,therealnews.com,https://therealnews.com/feed?partner-feed=the-real-news-network,news,,,,div,class,entry-content,7/8/2021 13:30,20
+31451.0,,Civil Eats,civileats.com,https://civileats.com/category/environment/feed/,env,,,,,,,,0
+32090.0,,Law 360,law360.com,https://www.law360.com/energy/rss,env,,,needs login,div,id,article,9/27/2021 10:07,51
+32411.0,,Greenbiz,greenbiz.com,https://www.greenbiz.com/rss.xml,env,,,,div,class,article__body,9/27/2021 10:07,73
+32593.0,,Yale Environment 360,e360.yale.edu,https://e360.yale.edu/feed.xml,env,,,,div,class,article__block article__block--textBlock,9/27/2021 10:08,150
+32929.0,,Environmental Leader,environmentalleader.com,https://www.environmentalleader.com/feed/,env,,,,div,class,entry-content,9/27/2021 10:08,68
+33201.0,,Food & Environment Reporting Network,thefern.org,https://thefern.org/feed/,science,,,,,,,,0
+33451.0,,San Francisco Public Press,sfpublicpress.org,https://www.sfpublicpress.org/feed/,local,,,,div,class,entry-content clearfix,7/8/2021 13:40,12
+33885.0,,The National Catholic Reporter,ncronline.org,https://www.ncronline.org/rss.xml,news,,,,,,,,0
+33997.0,,High Country News,hcn.org,https://www.hcn.org/rss/most-recent/rss.xml,"big_news, env",,,,div,class,large-8 columns,9/27/2021 10:08,75
+34202.0,,Corporate Europe,corporateeurope.org,https://corporateeurope.org/en/rss.xml,big_news,europe,,,,,,,0
+34234.0,,Clean Technica,cleantechnica.com,https://cleantechnica.com/feed/,cars,,,,div,class,zox-post-main,8/9/2021 10:22,46
+34268.0,,Ensia,ensia.com,https://ensia.com/feed/,emv,,,,,,,,0
+34683.0,,Solar Industry Mag,solarindustrymag.com,https://solarindustrymag.com/feed,energy,,,,div,class,td-post-content tagdiv-type,12/12/2021 22:57,33
+34711.0,,Governors' Wind Energy Coalition,governorswindenergycoalition.org,https://governorswindenergycoalition.org/feed/,energy,,,,div,class,singleentry,12/12/2021 22:58,51
+34712.0,,PV Tech,pv-tech.org,https://www.pv-tech.org/feed/,env,,,,div,id,post-content,8/12/2021 10:32,31
+34754.0,,InsideClimate News,insideclimatenews.org,https://insideclimatenews.org/feed/,env,,,,div,class,entry-content,8/12/2021 10:32,40
+35170.0,,MarketWatch,marketwatch.com,,,,,,,,,,0
+38697.0,,Die Zeit,zeit.de,https://newsfeed.zeit.de/wissen/umwelt/index,"news, env",germany,,,div,class,article-page,8/12/2021 10:32,54
+38806.0,,De Morgen,demorgen.be,https://newsfeed.zeit.de/wissen/umwelt/index,news,belgium,,,,,,,0
+38927.0,,Trouw,trouw.nl,https://www.trouw.nl/duurzaamheid-natuur/rss.xml,news,netherlands,,,main,id,main-content,7/23/2021 6:52,43
+39071.0,,Le Monde (Climate),lemonde.fr,https://www.lemonde.fr/climat/rss_full.xml,big_news,france,,,,,,,0
+39072.0,,Le Monde,lemonde.fr,https://www.lemonde.fr/rss/une.xml,"big_news, env",france,,,article,class,article__content old__article-content-single,8/12/2021 10:32,113
+39120.0,,Le Figaro,lefigaro.fr,https://www.lefigaro.fr/rss/figaro_actualites.xml,big_news,france,,,div,data-component,fig-content-body,7/23/2021 6:52,40
+39121.0,,Le Figaro (Environment),lefigaro.fr,https://www.lefigaro.fr/rss/figaro_sciences.xml,"big_news, science",france,,,,,,,0
+39138.0,,Het Nieuwsblad,nieuwsblad.be,https://www.nieuwsblad.be/rss/section/55178e67-15a8-4ddd-a3d8-bfe5708f8932,news,belgium,,,,,,,0
+39203.0,,La Presse (Canada),lapresse.ca,https://www.lapresse.ca/actualites/environnement/rss,"news, env",canada,,,div,class,articleBody,8/12/2021 10:32,28
+39292.0,,Argus,theargus.co.uk,https://www.theargus.co.uk/news/rss/,news,uk,,,,,,,0
+39426.0,,NRC Handelsblad,nrc.nl,https://www.nrc.nl/rss/,news,netherlands,,,,,,,0
+39566.0,,De Standard,standaard.be,https://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c,news,belgium,,,,,,,0
+39834.0,,Il Sole 24 Ore,ilsole24ore.com,https://www.ilsole24ore.com/rss/economia--energia-e-ambiente.xml,news,italy,,,,,,,0
+39983.0,,Frankfurter Rundschau,fr.de,https://www.fr.de/zukunft/rssfeed.rdf,"news, env",germany,,,article,id,id-js-Story,9/27/2021 10:27,32
+40401.0,,Financial Times,ft.com,,big_news,,,,,,,,0
+40416.0,,De Tijd,tijd.be,https://www.tijd.be/rss/top_stories.xml,news,belgium,,,,,,,0
+40446.0,,La Stampa,lastampa.it,http://feed.lastampa.it/notizie_principali.rss,news,italy,,,,,,,0
+40476.0,,Les Echos,lesechos.fr,https://syndication.lesechos.fr/rss/rss_energie-environnement.xml,"news, env",france,,,div,class,sc-1mpwnru-0 dOIcua,9/27/2021 10:27,47
+40579.0,,Energie Overheid,rijksoverheid.nl,https://feeds.rijksoverheid.nl/nieuws.rss,news,netherlands,,,,,,,0
+40918.0,,Irish Times,irishtimes.com,https://www.irishtimes.com/rss/test-rss-feed-1.4094403,news,ireland,,,,,,,0
+41013.0,,Japan Times,japantimes.co.jp,https://www.japantimes.co.jp/feed/topstories/,big_news,japan,,,,,,,0
+41080.0,,European Observer,euobserver.com,https://xml.euobserver.com/rss.xml,news,europe,,,,,,,0
+41150.0,,The Independent,independent.co.uk,https://www.independent.co.uk/climate-change/rss,big_news,uk,,,,,,,0
+41264.0,,Welt,welt.de,,news,germany,,,,,,,0
+41348.0,,IPS Inter Press Service,ipsnews.net,http://www.ipsnews.net/feed/,news,,,,,,,,0
+41499.0,,De Volkskrant,volkskrant.nl,https://www.volkskrant.nl/wetenschap/rss.xml,news,netherlansd,,,,,,,0
+41519.0,,Handelsblatt,handelsblatt.com,https://www.handelsblatt.com/contentexport/feed/top-themen,"news, science",germany,,,,,,,0
+41526.0,,El Mundo,elmundo.es,https://e00-elmundo.uecdn.es/rss/ciencia-y-salud/medio-ambiente.xml,"news, environment",spain,,,div,data-section,articleBody,9/27/2021 10:27,124
+41552.0,,Repubblica ,repubblica.it,https://www.repubblica.it/rss/scienze/rss2.0.xml,"news, science",italy,,,,,,,0
+41821.0,,La Tribune,latribune.fr,https://www.latribune.fr/feed.xml,news,france,,,,,,,0
+41843.0,,Publico,publico.es,https://www.publico.es/rss/,news,spain,,,,,,,0
+41857.0,,Expansion ,expansion.com,https://e00-expansion.uecdn.es/rss/portada.xml,news,spain,,,,,,,0
+41957.0,,Korea Times,koreatimes.co.kr,https://www.koreatimes.co.kr/www/rss/rss.xml,news,korea,,,,,,,0
+42022.0,,finanznachrichten,finanznachrichten.de,https://www.finanznachrichten.de/rss-aktien-nachrichten/,news,germany,,,,,,,0
+42090.0,,La Vanguardia,lavanguardia.com,,,spain,,,,,,,0
+42689.0,,The Times,thetimes.co.uk,https://www.times-series.co.uk/news/rss/,news,uk,,,,,,,0
+43526.0,,Le Soir,lesoir.be,https://www.lesoir.be/rss/23/cible_principale,"news, env",belgium,,,,,,,0
+44770.0,,Toronto Star ,thestar.com,http://www.thestar.com/content/thestar/feed.RSSManagerServlet.articlestopstories.rss,big_news,canada,,,,,,,0
+46073.0,,Ottawa Citizen,ottawacitizen.com,https://ottawacitizen.com/feed,news,canada,,,,,,,0
+53090.0,,EcoWatch,ecowatch.com,https://www.ecowatch.com/feeds/feed.rss,env,,,,div,class,body-description,9/27/2021 10:27,102
+54032.0,,Citywire (all locations),citywire.co.uk,,,uk,,,,,,,0
+55612.0,,De Telegraaf,telegraaf.nl,https://www.telegraaf.nl/rss,news,netherlands,,,,,,,0
+56072.0,,ANSA ,ansa.it,https://www.ansa.it/canale_ambiente/notizie/ambiente_rss.xml,"news, env",italy,,,div,class,news-txt,9/27/2021 10:28,9
+56177.0,,Live Mint,livemint.com,https://www.livemint.com/rss/companies,,,,,,,,,0
+56182.0,,Il Fatto Quotidiano ,ilfattoquotidiano.it,https://www.ilfattoquotidiano.it/feed/,news,italy,,,,,,,0
+56729.0,,Renewable Energy World,renewableenergyworld.com,https://www.renewableenergyworld.com/feed/,energy,,,,div,class,td-post-content tagdiv-type,12/11/2021 0:49,38
+58069.0,,The Alpinist,schedule.sxsw.com,,,,,,,,,,0
+58201.0,,Private Eye,private-eye.co.uk,,,uk,,,,,,,0
+61084.0,,Daily Mirror,dailymirror.lk,https://www.dailymirror.lk/rss/top_story/155,news,sri_lanka,,,,,,,0
+61704.0,,Liberation,liberation.fr,http://rss.liberation.fr/rss/latest/,news,france,,,article,class,article-box top-line,,0
+64110.0,,Truthout,truthout.org,https://truthout.org/feed/?withoutcomments=1,,,,,,,,,0
+64233.0,,La Libre Belgique,lalibre.be,https://www.lalibre.be/rss/section/planete/environnement.xml,"news, env",belgium,,,div,id,article-text,,0
+67012.0,,E&E,eenews.net,,env,,,,,,,,0
+67260.0,,Australian Financial Review,afr.com,,,australia,,,,,,,0
+67264.0,,Quartz,qz.com,https://cms.qz.com/feed/,,,,,,,,,0
+67989.0,,Hindu Business Line,thehindubusinessline.com,https://www.thehindubusinessline.com/news/feeder/default.rss,news,india,,,,,,,0
+68169.0,,Interfax Energy,interfax.com,,energy,,,,,,,,0
+68487.0,,Risk.net,risk.net,https://www.risk.net/feeds/rss/category/commodities/energy,energy,,,,,,,,0
+68711.0,,el Diario,eldiario.es,https://www.eldiario.es/rss/,news,spain,,,,,,,0
+68737.0,,Evening Standard,standard.co.uk,https://www.standard.co.uk/rss,big_news,uk,,,,,,,0
+70458.0,,The Texas Observer,texasobserver.org,https://www.texasobserver.org/feed/,local,,,,,,,,0
+71372.0,,The Bulletin of the Atomic Scientists,thebulletin.org,,science,,,,,,,,0
+71913.0,,HuffPost (World),huffpost.com,https://chaski.huffpost.com/us/auto/vertical/world-news,news,,,,,,,,0
+71912.0,,HuffPost,huffpost.com,https://chaski.huffpost.com/us/auto/vertical/us-news,news,,,,,,,,0
+71914.0,,HuffPost (Environment),huffpost.com,https://chaski.huffpost.com/us/auto/vertical/green,"news, env",,,,div,class,entry__text js-entry-text yr-entry-text,8/12/2021 10:01,14
+72344.0,,The Verge,theverge.com,https://www.theverge.com/rss/index.xml,tech,,,,,,,,0
+73205.0,,WirtschaftsWoche,wiwo.de,,,germany,,,,,,,0
+73766.0,,The Guardian,theguardian.com,https://www.theguardian.com/international/rss,big_news,,,,,,,,0
+73767.0,,The Guardian (Environment),theguardian.com,https://www.theguardian.com/us/environment/rss,"big_news, env",,,,div,id,maincontent,8/12/2021 10:01,82
+74643.0,,PR Week,prweek.com,https://www.prweek.com/rss/us,,,,,,,,,0
+75679.0,,The Oklahoma Observer,okobserver.org,https://okobserver.org/feed/,local,,,,,,,,0
+81135.0,,Rethinking Schools,rethinkingschools.org,https://rethinkingschools.org/feed/,,,,,,,,,0
+82510.0,,OilPrice.com,oilprice.com,https://oilprice.com/rss.xml,energy,,,,,,,,0
+86580.0,,S&P Global,spglobal.com,https://investor.spglobal.com/rss/pressrelease.aspx,,,,,,,,,0
+86821.0,,Business Green,businessgreen.com,https://www.businessgreen.com/feeds/rss,s_fin,,,,,,,,0
+86993.0,,Teen Vogue,teenvogue.com,https://www.teenvogue.com/feed/rss,,,,,,,,,0
+87450.0,,El Confidencial,elconfidencial.com,https://rss.elconfidencial.com/mundo/,news,spain,,,,,,,0
+88204.0,,Oil & Gas Journal,ogj.com,https://www.ogj.com/rss/home.xml,energy,,,,div,class,content-body-contents,,0
+89263.0,,Petroleum Economist,petroleum-economist.com,https://pemedianetwork.com/petroleum-economist/rss,energy,,,,,,,,0
+90966.0,,Green Car Reports,greencarreports.com,https://feeds.highgearmedia.com/?sites=GreenCarReports,cars,,,,section,class,article-body,8/9/2021 11:01,32
+93911.0,,autonews.com,autonews.com,http://feeds.feedburner.com/autonews/BreakingNews,cars,,,,div,class,block block-,,0
+93911.0,,Automotive News Europe,europe.autonews.com,,cars,europe,,,div,class,block block-,,0
+93975.0,,City AM,cityam.com,https://www.cityam.com/feed/,news,uk,,,,,,,0
+94096.0,,Maritime Executive,maritime-executive.com,https://maritime-executive.com/articles.rss,ships,,,,article,class,feature-item article-node pt-15,7/27/2021 7:20,313
+94143.0,,Pensions & Investments,pionline.com,https://www.pionline.com/section/rss/news?topics=69021,,,,,,,,,0
+96713.0,,Ceres,ceres.org,https://ceres.org/rss.xml,env,,,,div,class,field--item,8/12/2021 10:01,11
+97389.0,,Carbon Brief,carbonbrief.org,https://www.carbonbrief.org/feed,env,,,,div,class,innerArt,8/12/2021 10:01,20
+97661.0,,Calgary Herald,calgaryherald.com,https://calgaryherald.com/feed,news,canada,,,,,,,0
+97708.0,,Recharge News,rechargenews.com,https://services.rechargenews.com/api/feed/rss,env,,,,div,class,article-body,8/12/2021 10:02,84
+98379.0,,Next City,nextcity.org,https://nextcity.org/feeds/daily,news,,,,,,,,0
+99001.0,,Curbed,curbed.com,,,,,,,,,,0
+104828.0,,Vox,vox.com,https://www.vox.com/rss/index.xml,big_news,,,,,,,,0
+108581.0,,Palm Springs Desert Sun,desertsun.com,http://rssfeeds.mydesert.com/palmsprings/news,local,,,,,,,,0
+109860.0,,Energy Post EU,energypost.eu,https://energypost.eu/feed/,energy,europe,,,,,,,0
+110167.0,,La Capitale,lacapitale.be,,,belgium,,,,,,,0
+115660.0,,Le Devoir,ledevoir.com,http://feeds2.feedburner.com/fluxdudevoir,news,canada,,,,,,,0
+120100.0,,Climate Action,climateactionprogramme.org,,env,,,,,,,,0
+121230.0,,Investment & Pensions Europe,ipe.com,https://www.ipe.com/3114.rss,s_fin,,,,,,,,0
+135822.0,,Responsible Investor,responsible-investor.com,,s_fin,,,,,,,,0
+137343.0,,Capital & Main,capitalandmain.com,https://capitalandmain.com/feed,,,,,,,,,0
+144170.0,,The GroundTruth Project,thegroundtruthproject.org,https://thegroundtruthproject.org/feed/,,,,,,,,,0
+144748.0,,Mining.com,mining.com,https://www.mining.com/feed/,metals,,,,,,,,0
+145343.0,,Mining Weekly,miningweekly.com,,metals,,,,,,,,0
+146558.0,,Next Avenue,nextavenue.org,,,,,,,,,,0
+147711.0,,"PublicSource (Pittsburgh, Pa.)",publicsource.org,https://www.publicsource.org/feed/,local,,,,,,,,0
+148066.0,,Diario AS,as.com,,news,,,,,,,,0
+156869.0,,Yale Climate Connections,yaleclimateconnections.org,https://yaleclimateconnections.org/feed/,env,,,,div,class,entry-content,8/12/2021 9:57,21
+157135.0,,Energy & Policy Institute,energyandpolicy.org,https://www.energyandpolicy.org/feed/,energy,,,,div,class,entry-content,12/11/2021 0:49,21
+162780.0,,Edie,edie.net,https://www.edie.net/news/rss0.xml,s_fin,,,,,,,,0
+163130.0,,Rock and Ice,rockandice.com,https://www.rockandice.com/feed/,,,,,,,,,0
+164806.0,,DigBoston,digboston.com,https://digboston.com/feed/,local,,,,,,,,0
+164972.0,,Dow Jones,dowjones.com,,,,,,,,,,0
+168383.0,,Investors Chronicle,investorschronicle.co.uk,,news,uk,,,,,,,0
+168535.0,,Circle of Blue,circleofblue.org,https://www.circleofblue.org/feed/,water,,,,,,,,0
+174910.0,,The Nation,thenation.com,https://www.thenation.com/feed/?post_type=article&subject=environment,news,,,,,,,,0
+178063.0,,Utility Dive,utilitydive.com,https://www.utilitydive.com/feeds/news/,energy,,,,div,class,article-body,12/11/2021 0:49,21
+185884.0,,Natural Gas Intelligence,naturalgasintel.com,https://www.naturalgasintel.com/feed/,energy,,,,div,class,article-body,,0
+187592.0,,Wind Power Monthly,windpowermonthly.com,https://www.windpowermonthly.com/rss/news,energy,,,,div,class,ArticleBodyPaywall,12/11/2021 0:49,21
+189192.0,,WWF,worldwildlife.org,https://feeds.feedburner.com/WWFStories,science,,,,,,,,0
+200555.0,,PassBlue,passblue.com,https://www.passblue.com/feed/,,,,,,,,,0
+205488.0,,Green Builder Media,greenbuildermedia.com,,construction,,,,,,,,0
+211526.0,,WhoWhatWhy,whowhatwhy.org,,,,,,,,,,0
+221027.0,,Eco Business,eco-business.com,https://www.eco-business.com/feeds/all/,env,,,,,,,,0
+221315.0,,Energy News Network,energynews.us,https://energynews.us/feed/,energy,,,,div,class,entry-content,8/23/2021 10:03,8
+221597.0,,Ecosystem Marketplace,ecosystemmarketplace.com,,env,,,,,,,,0
+221638.0,,Blue & Green Tomorrow,blueandgreentomorrow.com,https://blueandgreentomorrow.com/feed/,energy,,,,,,,,0
+222053.0,,Offshore Wind Biz,offshorewind.biz,https://www.offshorewind.biz/feed/,energy,,,,div,class,wp-content,12/11/2021 0:49,31
+223679.0,,Argus Media,argusmedia.com,,energy,,,,,,,,0
+225283.0,,We Mean Business Coalition,wemeanbusinesscoalition.org,https://www.wemeanbusinesscoalition.org/feed/,env,,,,div,class,content,8/12/2021 9:57,17
+225476.0,,ENDS Report,endsreport.com,https://www.endsreport.com/rss/news-and-analysis,env,,,,,,,,0
+225568.0,,Reveal,revealnews.org,https://revealnews.org/feed/,,,,,,,,,0
+231181.0,,Financial Advisor,ftadviser.com,,,,,,,,,,0
+235510.0,,Utility Week,utilityweek.co.uk,,energy,uk,,,,,,,0
+236156.0,,Power Energy International,powerengineeringint.com,https://www.powerengineeringint.com/feed/,energy,,,,div,class,td-post-content,12/11/2021 0:49,31
+240387.0,,Climate Change Business Journal (EBI),ebionline.org,https://ebionline.org/feed/,env,,,,div,class,entry-content,8/12/2021 9:57,12
+241641.0,,Environmental Finance,environmental-finance.com,https://www.environmental-finance.com/content/environmental-finance-rss-feed.xml,env,,,,,,,,0
+242352.0,,EUR Electric,eurelectric.org,,energy,europe,,,,,,,0
+245451.0,,OilVoice,oilvoice.com,,energy,,,,,,,,0
+249144.0,,Bloomberg NEF,bnef.com,https://about.bnef.com/feed/,energy,,,,div,class,article__content,12/11/2021 0:49,23
+252471.0,,Investment Europe,investmenteurope.net,,,europe,,,,,,,0
+252885.0,,Bellona,bellona.org,https://bellona.org/feed,env,,,,div,id,main-inner,8/12/2021 9:57,25
+254470.0,,GlacierHub,news.climate.columbia.edu/features/glacierhub,https://news.climate.columbia.edu/feed/,env,,,,div,role,content,8/12/2021 9:57,21
+258173.0,,La Derniere Heure,dhnet.be,https://www.dhnet.be/rss.xml,news,begium,,,,,,,0
+258187.0,,DPA,dpa-international.com,,,,,,,,,,0
+260255.0,,Carbon Pulse,carbon-pulse.com,https://carbon-pulse.com/feed/,env,,,,,,,,0
+261604.0,,National Observer,nationalobserver.com,https://www.nationalobserver.com/front/rss,news,canada,,,,,,,0
+269122.0,,The Charleston Gazette-Mail (West Virginia),wvgazettemail.com,,local,,,,,,,,0
+269138.0,,The Intercept,theintercept.com,https://theintercept.com/feed/?rss,news,,,,,,,,0
+279586.0,,Climate Home,climatechangenews.com,https://feeds.feedburner.com/ClimateHome,env,,,,div,class,news-content,12/11/2021 0:40,57
+281110.0,,Het Financieele Dagblad,fd.nl,https://fd.nl/?rss,news,netherlands,,,,,,,0
+281884.0,,Suddeutsche Zeitung,sueddeutsche.de,https://rss.sueddeutsche.de/rss/Topthemen,big_news,germany,,,,,,,0
+282168.0,,Boursorama,boursorama.com,,,france,,,,,,,0
+282629.0,,Undark,undark.org,https://undark.org/feed/,science,,,,,,,,0
+288016.0,,Honolulu Civil Beat,civilbeat.org,https://www.civilbeat.org/feed,local,,,,,,,,0
+295147.0,,Electrek,electrek.co,https://electrek.co/feed/,cars,,,,div,class,post-body,,0
+300214.0,,Business Wire,businesswire.com,,,,,,,,,,0
+303031.0,,The Chicago Review of Books,chireviewofbooks.com,https://chireviewofbooks.com/feed/,,,,,,,,,0
+317281.0,,Worth Media,worth.com,https://www.worth.com/feed/,,,,,,,,,0
+330440.0,,L'Echo,lecho.be,https://www.lecho.be/rss/entreprises_energie.xml,"news, env",belgium,,,,,,,0
+333657.0,,Les Affairs,lesaffaires.com,,news,canada,,,,,,,0
+333950.0,,Finance et Investissement,finance-investissement.com,https://www.finance-investissement.com/feed/,,canada,,,,,,,0
+350027.0,,Investment Executive,investmentexecutive.com,https://www.investmentexecutive.com/feed/,,canada,,,,,,,0
+350631.0,,Financial Standard,financialstandard.com.au,https://www.financialstandard.com.au/feed/latest,,australia,,,,,,,0
+352519.0,,Real Leaders,real-leaders.com,,,,,,,,,,0
+357080.0,,Insurance Post,postonline.co.uk,,,uk,,,,,,,0
+366942.0,,Bustle,bustle.com,https://www.bustle.com/rss,,,,,,,,,0
+366984.0,,The Portland Press Herald (Maine),pressherald.com,https://www.pressherald.com/feed/,local,,,,,,,,0
+367123.0,,The Globe and Mail,theglobeandmail.com,,big_news,canada,,,,,,,0
+368082.0,,The Root,theroot.com,https://www.theroot.com/rss,,,,,,,,,0
+368627.0,,Insurance Business Magazine UK,insurancebusinessmag.com,,,,,,,,,,0
+368664.0,,Freight Waves,americanshipper.com,https://www.freightwaves.com/feed,ships,,,,div,class,entry-content entry clearfix,7/27/2021 7:22,51
+376093.0,,Financial News,fnlondon.com,https://www.fnlondon.com/rss,news,uk,,,,,,,0
+386443.0,,Nexus Media,nexusmedianews.com,https://nexusmedianews.com/feed/,env,,,,div,class,article-body,,0
+388367.0,,ImpactAlpha,impactalpha.com,https://impactalpha.com/feed/,,,,,,,,,0
+390083.0,,The Spectator,spectator.co.uk,,news,uk,,,,,,,0
+390096.0,,Novethic,novethic.fr,,"news, env",france,,,,,,,0
+393498.0,,Streetsblog Denver,denver.streetsblog.org,https://denver.streetsblog.org/feed/,local,,,,,,,,0
+393515.0,,Streetsblog California,cal.streetsblog.org,https://cal.streetsblog.org/feed/,local,,,,,,,,0
+394686.0,,SF Business Times,bizjournals.com,,local,,,,,,,,0
+450613.0,,The Actuary,theactuarymagazine.org,https://theactuarymagazine.org/feed/,,,,,,,,,0
+474384.0,,Business Insider ,businessinsider.com,https://feeds.businessinsider.com/custom/all,news,,,,,,,,0
+491666.0,,Global Cement,globalcement.com,,metals,,,,,,,,0
+496705.0,,Infrastructure Investor,infrastructureinvestor.com,https://www.infrastructureinvestor.com/feed/,,,,,,,,,0
+498749.0,,The Nome Nugget (Alaska),nomenugget.com,http://nomenugget.com/rss.xml/m,local,,,,,,,,0
+503592.0,,Canadian Investment Review,investmentreview.com,https://www.benefitscanada.com/news/feed/,,canada,,,,,,,0
+507227.0,,Investment Magazine,investmentmagazine.com.au,https://www.investmentmagazine.com.au/feed/,,australia,,,,,,,0
+518977.0,,Reset,reset.org,https://en.reset.org/rss.xml,env,germany,,,,,,,0
+527037.0,,Growing for Market,growingformarket.com,,,,,,,,,,0
+557862.0,,Unearthed ,unearthed.greenpeace.org,https://unearthed.greenpeace.org/feed/,env,,,,div,class,container main-content,7/27/2021 8:33,11
+564270.0,,Financial Post,business.financialpost.com,https://financialpost.com/category/commodities/energy/feed.xml,energy,,,,,,,,0
+570182.0,,Contexte,contexte.com,,,france,,,,,,,0
+570516.0,,Forward Kentucky,forwardky.com,https://forwardky.com/feed/,local,,,,,,,,0
+588446.0,,Risk & Insurance,riskandinsurance.com,,,,,,,,,,0
+594777.0,,Columbia University News,news.columbia.edu,https://news.columbia.edu/news/rss.xml,,,,,,,,,0
+656489.0,,Corriere della Sera,corriere.it,,,italy,,,,,,,0
+659691.0,,Steamboat Magazine,steamboatmagazine.com,,,,,,,,,,0
+661695.0,,People’s Tribune,thepeoplestribune.com,http://thepeoplestribune.com/feed/,local,,,,,,,,0
+664590.0,,Altreconomia,altreconomia.it,https://altreconomia.it/feed/,news,italy,,,,,,,0
+665817.0,,Montreal Gazette,montrealgazette.com,https://montrealgazette.com/feed,news,canada,,,,,,,0
+667276.0,,Oil & Gas Climate Initiative,oilandgasclimateinitiative.com,https://www.ogci.com/feed/,env,,,,div,class,wpb_column vc_column_container vc_col-sm-8,8/12/2021 9:48,13
+672238.0,,World Coal,worldcoal.com,,energy,,,,,,,,0
+695410.0,,InDepthNH.org,indepthnh.org,http://indepthnh.org/feed/,local,,,,,,,,0
+699812.0,,News and Guts,newsandguts.com,https://www.newsandguts.com/feed/,,,,,,,,,0
+704881.0,,Arctic Today,arctictoday.com,https://www.arctictoday.com/feed/,news,,,,,,,,0
+740698.0,,BirdWatching,birdwatching.co.uk,,,uk,,,,,,,0
+786080.0,,DeSmog,desmog.co.uk,https://www.desmog.com/feed/,env,uk,,,div,class,single-post-content,8/12/2021 9:49,21
+793818.0,,Sludge,readsludge.com,https://readsludge.com/feed/,,,,,,,,,0
+879233.0,,Terrain.org,terrain.org,https://www.terrain.org/feed/,science,,,,,,,,0
+890237.0,,Documented,documentedny.com,https://documentedny.com/feed/,local,,,,,,,,0
+899873.0,,United Methodist Insight,um-insight.net,https://um-insight.net/api/rss/content.rss,,,,,,,,,0
+908755.0,,Oil & Gas Investor,hartenergy.com/publications/oil-gas-investor-magazine,https://www.hartenergy.com/rss.xml,energy,,,,div,class,article-body,8/23/2021 10:03,31
+1007576.0,,Green Global Travel,greenglobaltravel.com,https://greenglobaltravel.com/feed/,,,,,,,,,0
+1061621.0,,EcoRI News,ecori.org,,"local, env",,,,,,,,0
+1175340.0,,The News Journal (Delaware),delawareonline.com,http://rssfeeds.delawareonline.com/wilmington-home,local,,,,,,,,0
+1176582.0,,The Shoestring,theshoestring.org,https://theshoestring.org/feed/,local,,,,,,,,0
+1218483.0,,The Daily Sentinel (Santa Cruz),santacruzsentinel.com,https://www.santacruzsentinel.com/feed/,local,,,,,,,,0
+1274558.0,,Investor Daily,investor.id,,,indonesia,,,,,,,0
+1287353.0,,Today News Africa,todaynewsafrica.com,,,africa,,,,,,,0
+1290874.0,,The Driven,thedriven.io,https://thedriven.io/feed/atom/,cars,,,,section,class,content entry-content,,0
+1325592.0,,Platform Authentieke Journalistiek,authentiekejournalistiek.org,,,netherlands,,,,,,,0
+1326371.0,,Covering Climate Now,coveringclimatenow.org,,env,,,,,,,,0
+1331833.0,,Grist,grist.org,https://grist.org/feed/,env,,,,div,class,article__content,6/29/2023 20:47,76
+1361608.0,,The Hill,thehill.com,https://thehill.com/rss.xml,big_news,,,,,,,,0
+1361609.0,,The Hill (Environment),thehill.com,https://thehill.com/taxonomy/term/28/feed,"big_news, env",,,,div,class,field-item even,8/12/2021 9:34,33
+1362192.0,,New Europe,neweurope.eu,https://www.neweurope.eu/feed/,news,europe,,,,,,,0
+1372768.0,,Frankfurter Allgemeine Zeitung,faz.net,https://www.faz.net/rss/aktuell/,big_news,germany,,,,,,,0
+1380308.0,,The Planetary Press,theplanetarypress.com,https://www.theplanetarypress.com/feed/,env,,,,div,class,td-post-content,8/12/2021 9:34,18
+1380834.0,,Tagesspiegel,tagesspiegel.de,https://www.tagesspiegel.de/contentexport/feed/home,news,germany,,,,,,,0
+1382704.0,,NUVO (Indiana),nuvo.net,,local,,,,,,,,0
+1382886.0,,Green Philly,thegreencities.com,https://www.thegreencities.com/feed/,"local, env",,,,article,class,post,,0
+1388940.0,,Australian Associated Press,aap.com.au,https://www.aap.com.au/feed/,news,australia,,,,,,,0
+1391367.0,,Oil Review Middle East,oilreviewmiddleeast.com,https://oilreviewmiddleeast.com/cache/rss.xml,energy,middle_east,,,div,class,articleContent,8/23/2021 10:04,31
+1392047.0,,EURACTIV,euractiv.com,https://www.euractiv.com/feed,news,europe,,,div,class,ea-article-body,8/12/2021 9:34,366
+1392048.0,,Algemen Dagblad,ad.nl,https://www.ad.nl/home/rss.xml,news,netherlands,,,,,,,0
+1392049.0,,SF Chronicle,sfchronicle.com,,local,,,,,,,,0
+1392050.0,,"The Express News Group (The Southampton Press, The East Hampton Press, and The Sag Harbor Express; New York)",27east.com,https://www.27east.com/feed/,local,,,,,,,,0
+1392051.0,,Atmos Magazine,atmos.earth,https://atmos.earth/feed,science,,,,,,,,0
+1392052.0,,Bay Nature,baynature.org,https://baynature.org/feed/,science,,,,,,,,0
+1392053.0,,Climate + Capital,climateandcapitalmedia.com,https://www.climateandcapitalmedia.com/feed/,env,,,,div,class,article-content-wrap,8/12/2021 9:35,21
+1392054.0,,The Eden Magazine,theedenmagazine.com,https://theedenmagazine.com/feed/,,,,,,,,,0
+1392055.0,,Gym Climber,gymclimber.com,https://www.gymclimber.com/feed/,,,,,,,,,0
+1392056.0,,Sentient Media,sentientmedia.org,https://sentientmedia.org/feed/,env,,,,div,class,entry-content,8/12/2021 9:35,21
+1392058.0,,Melbourne Age,theage.com.au,https://www.theage.com.au/rss/environment.xml,news,australia,,,,,,,0
+1392059.0,,Canadian Press,nationalpost.com,https://nationalpost.com/feed,big_news,canada,,,,,,,0
+1392060.0,,Portfolio Institutional,portfolio-institutional.co.uk,https://www.portfolio-institutional.co.uk/feed/,,uk,,,,,,,0
+1392061.0,,Insurance ERM,insuranceerm.com,https://www.insuranceerm.com/rss-feeds/rss-feed.xml,,,,,,,,,0
+1392062.0,,Insurance Asset Management,insuranceassetmanagement.net,,,,,,,,,,0
+1392066.0,,Börsen-Zeitung,m.boersen-zeitung.de,https://www.boersen-zeitung.de/rss,news,germany,,,,,,,0
+1392067.0,,Inside Oil and Gas,insideindustry.com,https://insideindustry.com/index.php?format=feed&type=rss,energy,,,,div,class,tmp-content-area,8/23/2021 10:05,6
+1392073.0,,Economic Times,economictimes.indiatimes.com,https://economictimes.indiatimes.com/rssfeedsdefault.cms,news,india,,,,,,,0
+1392075.0,,Economic Times (Environment),economictimes.indiatimes.com,https://economictimes.indiatimes.com/prime/environment/rssfeeds/63319186.cms,"news, env",india,,,,,,,0
+1390274.0,,Agri-Pulse,agri-pulse.com,https://www.agri-pulse.com/rss/topic/71-news,agriculture,,,,div,class,content,2023-06-29 20:50:00,31
+1392076.0,,Agri-Pulse (Environment),agri-pulse.com,https://www.agri-pulse.com/rss/topic/21692-environment,"agriculture, env",,,,div,class,content,8/12/2021 9:29,61
+1392077.0,,Vancouver Sun,vancouversun.com,https://vancouversun.com/feed,news,canada,,,,,,,0
+1392080.0,,Australia Institute,tai.org.au,https://australiainstitute.org.au/feed,"news, env",australia,,,,,,,0
+1392081.0,,The Ecologist,theecologist.org,https://theecologist.org/whats_new/feed,env,,,,,,,,0
+1392082.0,,Environmental Defense Fund (Business),business.edf.org,https://business.edf.org/feed/,env,,,,,,,,0
+1392084.0,,Alternet,alternet.org,https://www.alternet.org/feeds/feed.rss,news,,,,,,,,0
+1392085.0,,NASDAQ,nasdaq.com,https://www.nasdaq.com/feed/rssoutbound?category=FinTech,,,,,,,,,0
+1392086.0,,World Maritime News,worldmaritimenews.com,https://www.offshore-energy.biz/feed/,ships,,,,div,class,wp-content,8/23/2021 10:39,21
+1392087.0,,Popular Science,popsci.com,https://www.popsci.com/feed/,science,,,,,,,,0
+1392089.0,,Steel Times International,steeltimesint.com,,metals,,,,,,,,0
+1392090.0,,Chemie Technik,chemietechnik.de,,chemicals,,,,,,,,0
+1392091.0,,Daily Press,dailypress.com,https://www.dailypress.com/arcio/rss/category/news/?sort=display_date:desc,local,,,,,,,,0
+1392092.0,,Times of India,timesofindia.indiatimes.com,https://timesofindia.indiatimes.com/rssfeedstopstories.cms,news,india,,,,,,,0
+1392093.0,,Times of India (Environment),timesofindia.indiatimes.com,https://timesofindia.indiatimes.com/rssfeeds/2647163.cms,"news, env",india,,,,,,,0
+1392094.0,,Cleveland.com,cleveland.com,,local,,,,,,,,0
+1392095.0,,Korea Herald,koreaherald.com,http://www.koreaherald.com/rss_xml.php,news,korea,,,,,,,0
+1392096.0,,Triple Pundit,triplepundit.com,https://www.triplepundit.com/rss,,,,,,,,,0
+1392097.0,,New Jersey Spotlight,njspotlight.com,https://www.njspotlight.com/energy-environment/feed/,"local, env",,,,div,class,entry-content,,0
+1392098.0,,BusinessKorea,businesskorea.co.kr,,,korea,,,,,,,0
+1392099.0,,IETA,ieta.org,,env,,,,,,,,0
+1392100.0,,All About Shipping,allaboutshipping.co.uk,https://allaboutshipping.co.uk/feed/,ships,uk,,,div,class,inner-post-entry entry-content,6/29/2023 20:43,41
+1392101.0,,Tatham Macinnes,tatham-macinnes.com,,ships,,,,,,,,0
+1392102.0,,This is Money UK,thisismoney.co.uk,https://www.dailymail.co.uk/money/index.rss,,uk,,,,,,,0
+1392103.0,,Creamer Media's Engineering News,engineeringnews.co.za,https://www.engineeringnews.co.za/page/environmental/feed,news,south_africa,,,,,,,0
+1392105.0,,Ipolitics Canada,ipolitics.ca,https://ipolitics.ca/feed/,news,canada,,,,,,,0
+1392106.0,,Renewable Energy News Biz,renews.biz,http://feeds.feedburner.com/Renews-RenewableEnergyNews,energy,,,paywall,div,class,article-post-content,8/23/2021 10:05,51
+1392107.0,,Offshore Energy Today,offshoreenergytoday.com,https://www.offshore-energy.biz/feed/,energy,,,,,,,,0
+1392108.0,,VoicenData,voicendata.com,https://www.voicendata.com/article-2/,,,,,,,,,0
+1392109.0,,The Fiscal Times,thefiscaltimes.com,https://www.thefiscaltimes.com/rss.xml,news,,,,,,,,0
+1392110.0,,Mineral and Waste Planning,mineralandwasteplanning.co.uk,https://www.mineralandwasteplanning.co.uk/rss/mineral-planning-home,metals,uk,,paywall,div,class,gatedArticle__heading,,0
+1392110.5,,Mineral and Waste Planning,mineralandwasteplanning.co.uk,https://www.mineralandwasteplanning.co.uk/rss/waste-planning-home,env,uk,,paywall,div,class,gatedArticle__heading,,0
+1392112.0,,Green Air News,greenairnews.com,https://www.greenairnews.com/?feed=rss2,aviation,,,,,,,,0
+1392113.0,,Daily Caller,dailycaller.com,https://dailycaller.com/feed/,news,,,,,,,,0
+1392114.0,,Sierra Club,sierraclub.org,https://www.sierraclub.org/rss.xml,env,,,,,,,,0
+1392115.0,,Midland Daily News,ourmidland.com,https://www.ourmidland.com/news/feed/News-1356.php,local,,,,,,,,0
+1392116.0,,Energy Post Weekly,energypostweekly.eu,,energy,europe,,paywall,,,,,0
+1392117.0,,Global Energy Sustainable Partnership,globalelectricity.org,,energy,,,,,,,,0
+1392120.0,,Hydrocarbons Technology,hydrocarbons-technology.com,https://www.hydrocarbons-technology.com/feed/,energy,,,,,,,,0
+1392121.0,,Interplas Insights,interplasinsights.com,https://interplasinsights.com/api/rss/content.rss,plastics,,,,,,,,0
+1392122.0,,TradeWinds,tradewindsnews.com,,ships,,,,,,,,0
+1392123.0,,Tri-Cities Watch,wcyb.com,,local,,,,,,,,0
+1392124.0,,International Business Times UK,ibtimes.co.uk,https://www.ibtimes.co.uk/rss/feed,news,uk,,,,,,,0
+1392125.0,,Center for Science & Technology,sciencepolicy.colorado.edu,,science,,,,,,,,0
+1392126.0,,The Avenue Mail,avenuemail.in,https://avenuemail.in/feed/,,india,,,,,,,0
+1392127.0,,Splash 247,splash247.com,https://splash247.com/feed/,ships,,,,div,class,entry-content entry clearfix,7/27/2021 7:22,11
+1392132.0,,News in English Norway,newsinenglish.no,http://feeds.feedburner.com/newsinenglish/AzQS,,norway,,,,,,,0
+1392133.0,,San Gabriel Valley Tribune,sgvtribune.com,https://www.sgvtribune.com/feed/,local,,,,,,,,0
+1392133.1,,San Gabriel Valley Tribune (Environment),sgvtribune.com,https://www.sgvtribune.com/news/environment/feed/,"local, env",,,,div,class,article-body,,0
+1392134.0,,Qual Energia,qualenergia.it,https://www.qualenergia.it/feed/,energy,italy,,,,,,,0
+1392135.0,,Energy in Buildings & Industry,eibi.co.uk,https://eibi.co.uk/feed/,energy,uk,,,,,,,0
+1392136.0,,Cenovus Energy,cenovus.com,,energy,canada,,,,,,,0
+1392137.0,,Oil & Gas Product News,oilandgasproductnews.com,https://www.oilandgasproductnews.com/rss/all.xml,energy,,,,,,,,0
+1392138.0,,FIIA Finland,fiia.fi,https://www.fiia.fi/feed,,finland,,,,,,,0
+1392139.0,,Polskie Radio,thenews.pl,,,poland,,,,,,,0
+1392140.0,,Environment North Carolina,environmentnorthcarolina.org,https://environmentnorthcarolina.org/rss.xml,"local, env",,,,div,class,field-name-body,,0
+1392142.0,,Gulf Times,gulf-times.com,https://gulf-times.com/Rss/Index,,qatar,,,,,,,0
+1392144.0,,Just Auto,just-auto.com,https://www.just-auto.com/feed/,cars,,,,div,class,c-post-single__content-column,,0
+1392145.0,,European Commission,ec.europa.eu,https://europa.eu/newsroom/press-releases.xml_en?field_press_release_by_topic_tid=40,env,,,,,,,,0
+1392147.0,,IndustryWeek,industryweek.com,https://www.industryweek.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D,,,,,,,,,0
+1392148.0,,WardsAuto,wardsauto.com,https://www.wardsauto.com/rss.xml,cars,,,,div,class,article-content,,0
+1392149.0,,Inside EPA,insideepaclimate.com,https://insideepa.com/tsca-takes/exxon-lobbyist-says-firm-makes-pfas-despite-leaders-denials,env,,,paywall,,,,,0
+1392151.0,,Independent Commodity Intelligence Services,icis.com,,,,,,,,,,0
+1392153.0,,Inside EV's,insideevs.com,https://insideevs.com/rss/news/all/,cars,,,,div,class,postBody description e-content,,0
+1392154.0,,Arizona Republic,azcentral.com,http://rssfeeds.azcentral.com/phoenix/local,local,,,,,,,,0
+1392155.0,,Fuel Fix,fuelfix.com,,energy,,,,,,,,0
+1392156.0,,Fleet News UK,fleetnews.co.uk,https://www.fleetnews.co.uk/rss.xml,cars,uk,,,div,itemprop,articleBody,6/29/2023 20:40,51
+1392158.0,,Environmental Protection Agency,epa.gov,https://www.epa.gov/newsreleases/search/rss,env,,,,,,,,0
+1392159.0,,Syracuse.com,syracuse.com,,local,,,,,,,,0
+1392160.0,,Business Live South Africa,bdlive.co.za,,,south_africa,,,,,,,0
+1392161.0,,Sustainable Brands,sustainablebrands.com,https://sustainablebrands.com/rss,env,,,,,,,,0
+1392164.0,,Advance Local,al.com,,local,,,,,,,,0
+1392165.0,,Center for Climate and Energy Solutions,c2es.org,https://www.c2es.org/feed/,env,,,,,,,,0
+1392166.0,,Wyoming Business Report,wyomingbusinessreport.com,https://www.wyomingnews.com/search/?f=rss&t=article&c=wyomingbusinessreport&l=50&s=start_time&sd=desc,local,,,,,,,,0
+1392167.0,,International Business Times,ibtimes.com,https://www.ibtimes.com/rss,news,,,,,,,,0
+1392170.0,,MacLean's,macleans.ca,https://www.macleans.ca/feed/,news,canada,,,,,,,0
+1392171.0,,Obras,obrasweb.mx,,,mexico,,,,,,,0
+1392172.0,,Construction Climate Challenge,constructionclimatechallenge.com,,construction,,,,,,,,0
+1392174.0,,Ars Technica UK,arstechnica.co.uk,https://feeds.arstechnica.com/arstechnica/science,,uk,,,,,,,0
+1392175.0,,Auto Blog,autoblog.com,https://www.autoblog.com/category/green-auto-news/rss.xml,cars,,,,div,class,post-contents clearfix,,0
+1392177.0,,ValueWalk,valuewalk.com,https://www.valuewalk.com/feed/,,,,,,,,,0
+1392178.0,,Daily Commercial News,dailycommercialnews.com,https://canada.constructconnect.com/feed,news,canada,,,,,,,0
+1392179.0,,Australia Parliament,aph.gov.au,https://www.aph.gov.au/house/rss/media_releases,,australia,,,,,,,0
+1392180.0,,Union of Concerned Scientists,blog.ucsusa.org,https://blog.ucsusa.org/feed/,env,,,,div,class,article-content,,0
+1392181.0,,Greentech Media,greentechmedia.com,https://feeds.greentechmedia.com/GreentechMedia,env,,,,article,class,article-body,,0
+1392182.0,,Resources for the Future,rff.org,,env,,,,,,,,0
+1392183.0,,World Bank,worldbank.org,,,,,,,,,,0
+1392184.0,,Climate Investigations Center,climateinvestigations.org,https://climateinvestigations.org/feed/,env,,,,div,class,entry-content,,0
+1392185.0,,Global Energy Institute,energyxxi.org,https://www.globalenergyinstitute.org/rss.xml,energy,,,,,,,,0
+1392187.0,,Metal Center News,metalcenternews.com,,metals,,,,,,,,0
+1392188.0,,Florida Politics,floridapolitics.com,https://floridapolitics.com/feed/,local,,,,,,,,0
+1392189.0,,Inside Sources,insidesources.com,https://insidesources.com/feed/,,,,,,,,,0
+1392191.0,,The Motorship,motorship.com,https://www.motorship.com/rss-feeds?page=346630,ships,,,,div,class,news-content clearfix,7/27/2021 7:59,101
+1392194.0,,International Cement Review,cemnet.com,https://www.cemnet.com/news/rss,metals,,,,div,class,post,8/12/2021 12:41,11
+1392195.0,,Pew Charitable Trusts,pewtrusts.org,,,,,,,,,,0
+1392196.0,,Mining MX,miningmx.com,https://www.miningmx.com/feed/,metals,,,,div,class,td-post-content,8/12/2021 12:41,11
+1392199.0,,Kentucky Courier Journal,courier-journal.com,http://rssfeeds.courier-journal.com/courierjournal/home,local,,,,,,,,0
+1392200.0,,Arkansas Democrat Gazette,arkansasonline.com,https://www.arkansasonline.com/rss/headlines/,local,,,,,,,,0
+1392203.0,,POWER Magazine,powermag.com,https://www.powermag.com/feed/,energy,,,,,,,,0
+1392204.0,,Courthouse News Service,courthousenews.com,,,,,,,,,,0
+1392205.0,,Der Klimaschutzplan 2050,klimaschutzplan2050.de,https://www.bmu.de/index.php?id=103&type=703,env,germany,,,div,class,o-body__content,,0
+1392206.0,,Edmonton Journal,edmontonjournal.com,https://edmontonjournal.com/feed,local,,,,,,,,0
+1392206.1,,Edmonton Journal (Energy),edmontonjournal.com,https://edmontonjournal.com/category/business/energy/feed.xml,"local, energy",,,,,,,,0
+1392207.0,,Harvard Belfer Center,belfercenter.org,https://www.belfercenter.org/rss/topic/902/feed,,,,,,,,,0
+1392207.1,,Harvard Belfer Center (Environment),belfercenter.org,https://www.belfercenter.org/rss/program/13911/feed,env,,,,div,id,field-page-content,,0
+1392208.0,,National Resource Defense Council,nrdc.org,https://www.nrdc.org/rss.xml,env,,,,div,class,l-content-full-wrap,,0
+1392209.0,done,Boston.com,https://www.boston.com/,https://www.boston.com/feed/,local,,,,,,,,0

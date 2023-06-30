@@ -1,0 +1,476 @@
+[
+    {
+        "ID": 1,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "site-content"
+    },
+    {
+        "ID": 2,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body"
+    },
+    {
+        "ID": 3,
+        "element_name": "article",
+        "attribute_name": "id",
+        "attribute_content": "story-content"
+    },
+    {
+        "ID": 4,
+        "element_name": "main",
+        "attribute_name": "class",
+        "attribute_content": "gnt_cw"
+    },
+    {
+        "ID": 9,
+        "element_name": "section",
+        "attribute_name": "id",
+        "attribute_content": "left"
+    },
+    {
+        "ID": 10,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "article--content"
+    },
+    {
+        "ID": 19,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body resizeFont"
+    },
+    {
+        "ID": 21,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "gnt_pr"
+    },
+    {
+        "ID": 35,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body"
+    },
+    {
+        "ID": 39,
+        "element_name": "section",
+        "attribute_name": "id",
+        "attribute_content": "left"
+    },
+    {
+        "ID": 50,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "gnt_pr"
+    },
+    {
+        "ID": 53,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "asset-content"
+    },
+    {
+        "ID": 63,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body"
+    },
+    {
+        "ID": 64,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 101,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "bigtext"
+    },
+    {
+        "ID": 104,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "articleBody"
+    },
+    {
+        "ID": 113,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "article-content"
+    },
+    {
+        "ID": 419,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 449,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "main"
+    },
+    {
+        "ID": 798,
+        "element_name": "main",
+        "attribute_name": "class",
+        "attribute_content": "site-main"
+    },
+    {
+        "ID": 1094,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "main-content"
+    },
+    {
+        "ID": 1095,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "l-container"
+    },
+    {
+        "ID": 1096,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "story"
+    },
+    {
+        "ID": 1101,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "article main-content"
+    },
+    {
+        "ID": 1106,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.1,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.2,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.3,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.4,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.5,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.6,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1106.7,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 1112,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 1133,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "page__content"
+    },
+    {
+        "ID": 1317,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 1392,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "articleText"
+    },
+    {
+        "ID": 1707,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "Body__content"
+    },
+    {
+        "ID": 1708,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "bodyContent"
+    },
+    {
+        "ID": 1755,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "ArticleBody-articleBody"
+    },
+    {
+        "ID": 4425,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__content"
+    },
+    {
+        "ID": 4434,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__chunks"
+    },
+    {
+        "ID": 4456,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-block article-text"
+    },
+    {
+        "ID": 4469,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "js_starterpost"
+    },
+    {
+        "ID": 4763,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "caas-content-wrapper"
+    },
+    {
+        "ID": 5521,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "l-article-content"
+    },
+    {
+        "ID": 5527,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "post-content"
+    },
+    {
+        "ID": 5846,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "page-content"
+    },
+    {
+        "ID": 5869,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "articulo__contenedor"
+    },
+    {
+        "ID": 6218,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "buzz-content"
+    },
+    {
+        "ID": 7333,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "story"
+    },
+    {
+        "ID": 18268.1,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "page-wrapper"
+    },
+    {
+        "ID": 18380,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "b-page__inner"
+    },
+    {
+        "ID": 19320,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 20120,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "gnt_ar_b"
+    },
+    {
+        "ID": 20982,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "vy-cx-page-content"
+    },
+    {
+        "ID": 22249,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "main-content"
+    },
+    {
+        "ID": 25459,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "article-body_1-0"
+    },
+    {
+        "ID": 26140,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "articlebody"
+    },
+    {
+        "ID": 26301,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "gnt_ar_b"
+    },
+    {
+        "ID": 27302,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "post-body"
+    },
+    {
+        "ID": 27343,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body js-hang-punc"
+    },
+    {
+        "ID": 31137,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 32411,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__body"
+    },
+    {
+        "ID": 32593,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__block article__block--textBlock"
+    },
+    {
+        "ID": 32929,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 33451,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content clearfix"
+    },
+    {
+        "ID": 33997,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "large-8 columns"
+    },
+    {
+        "ID": 34754,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-content"
+    },
+    {
+        "ID": 38697,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-page"
+    },
+    {
+        "ID": 38927,
+        "element_name": "main",
+        "attribute_name": "id",
+        "attribute_content": "main-content"
+    },
+    {
+        "ID": 39072,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "article__content old__article-content-single"
+    },
+    {
+        "ID": 39120,
+        "element_name": "div",
+        "attribute_name": "data-component",
+        "attribute_content": "fig-content-body"
+    },
+    {
+        "ID": 40476,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "sc-1mpwnru-0 dOIcua"
+    },
+    {
+        "ID": 61704,
+        "element_name": "article",
+        "attribute_name": "class",
+        "attribute_content": "article-box top-line"
+    },
+    {
+        "ID": 90966,
+        "element_name": "section",
+        "attribute_name": "class",
+        "attribute_content": "article-body"
+    },
+    {
+        "ID": 93911,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "block block-"
+    },
+    {
+        "ID": 295147,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "post-body"
+    },
+    {
+        "ID": 1331833,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__content"
+    },
+    {
+        "ID": 1392047,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "ea-article-body"
+    }
+]

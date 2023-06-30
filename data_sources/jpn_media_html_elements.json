@@ -1,0 +1,134 @@
+[
+    {
+        "ID": 1,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "w_atcl_content"
+    },
+    {
+        "ID": 2,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "atclTxtMain"
+    },
+    {
+        "ID": 4,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry"
+    },
+    {
+        "ID": 5,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article__main"
+    },
+    {
+        "ID": 6,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "leaf-article-inner block_story"
+    },
+    {
+        "ID": 12,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entry-body"
+    },
+    {
+        "ID": 15,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "the-content cf"
+    },
+    {
+        "ID": 34,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "wpeditor"
+    },
+    {
+        "ID": 37,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entryDetailBodyBlock"
+    },
+    {
+        "ID": 38,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "uk-card-body"
+    },
+    {
+        "ID": 40,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "bw-release-story"
+    },
+    {
+        "ID": 51,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article clearfix"
+    },
+    {
+        "ID": 68,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "content"
+    },
+    {
+        "ID": 73,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "ttl"
+    },
+    {
+        "ID": 85,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "entrycontainer clearfix"
+    },
+    {
+        "ID": 89,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article"
+    },
+    {
+        "ID": 102,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "article-body-inner"
+    },
+    {
+        "ID": 112,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "text"
+    },
+    {
+        "ID": 118,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "article-body cf"
+    },
+    {
+        "ID": 124,
+        "element_name": "div",
+        "attribute_name": "id",
+        "attribute_content": "contents"
+    },
+    {
+        "ID": 125,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "topicArea"
+    },
+    {
+        "ID": 127,
+        "element_name": "div",
+        "attribute_name": "class",
+        "attribute_content": "main_content detail single"
+    }
+]

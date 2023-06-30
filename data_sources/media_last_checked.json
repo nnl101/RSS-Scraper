@@ -1,0 +1,804 @@
+[
+    {
+        "ID": 1.0,
+        "date": "2023-06-30 03:27:37",
+        "Name": "New York Times",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+        "ID": 1.1,
+        "date": "2023-06-30 01:37:35",
+        "Name": "New York Times (Environment)",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+    },
+    {
+        "ID": 1.2,
+        "Name": "New York Times (Energy)",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+        "date": "2023-06-29 23:05:35"
+    },
+    {
+        "ID": 1.3,
+        "date": "2023-06-30 00:54:10",
+        "Name": "New York Times (Europe)",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+    },
+    {
+        "ID": 1.4,
+        "Name": "New York Times (Asia-Pacific)",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+        "date": "2023-06-29 20:32:50"
+    },
+    {
+        "ID": 1.5,
+        "date": "2023-06-30 03:15:10",
+        "Name": "New York Times (New York)",
+        "RSS Feed": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    },
+    {
+        "ID": 2,
+        "date": "2021-07-23 16:13:21",
+        "Name": "Washington Post (Global)",
+        "RSS Feed": "http://feeds.washingtonpost.com/rss/world"
+    },
+    {
+        "ID": 3.0,
+        "date": "2021-08-27 18:12:40",
+        "Name": "The Christian Science Monitor (Environment)",
+        "RSS Feed": "https://rss.csmonitor.com/feeds/environment"
+    },
+    {
+        "ID": 4,
+        "date": "2021-07-23 13:13:26",
+        "Name": "USA Today",
+        "RSS Feed": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+    },
+    {
+        "ID": 6.0,
+        "date": "2021-08-23 12:00:59",
+        "Name": "Los Angeles Times",
+        "RSS Feed": "https://www.latimes.com/california/rss2.0.xml"
+    },
+    {
+        "ID": 7.0,
+        "Name": "Los Angeles Times (Environment)",
+        "RSS Feed": "https://www.latimes.com/environment/rss2.0.xml#nt=1col-7030col1",
+        "date": "2021-08-27 12:00:19"
+    },
+    {
+        "ID": 9,
+        "date": "2021-07-23 10:00:00",
+        "Name": "Chicago Tribune",
+        "RSS Feed": "https://www.chicagotribune.com/arcio/rss/category/news/breaking/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link"
+    },
+    {
+        "ID": 10,
+        "date": "2021-07-23 08:00:00",
+        "Name": "Houston Chronicle",
+        "RSS Feed": "https://www.chron.com/rss/feed/News-270.php"
+    },
+    {
+        "ID": 11.0,
+        "Name": "Houston Chronicle (Energy)",
+        "RSS Feed": "https://www.chron.com/rss/feed/Energy-288.php",
+        "date": "2021-12-06 21:24:35"
+    },
+    {
+        "ID": 19,
+        "date": "2021-07-19 11:48:00",
+        "Name": "The Minneapolis Star Tribune",
+        "RSS Feed": "https://www.startribune.com/local/index.rss2"
+    },
+    {
+        "ID": 21,
+        "date": "2021-07-19 16:14:38",
+        "Name": "Detriot Free Press",
+        "RSS Feed": "http://rssfeeds.freep.com/freep/home"
+    },
+    {
+        "ID": 35,
+        "date": "2021-07-19 09:54:22",
+        "Name": "San Jose Mercury News",
+        "RSS Feed": "https://www.mercurynews.com/feed/"
+    },
+    {
+        "ID": 36.0,
+        "Name": "San Jose Mercury News (Environment)",
+        "RSS Feed": "https://www.mercurynews.com/news/environment/feed/",
+        "date": "2021-08-27 22:27:35"
+    },
+    {
+        "ID": 39,
+        "date": "2021-07-19 16:46:48",
+        "Name": "South Florida Sun Sentinel",
+        "RSS Feed": "https://www.sun-sentinel.com/arcio/rss/category/local/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link"
+    },
+    {
+        "ID": 50,
+        "date": "2021-07-19 16:51:07",
+        "Name": "Detroit News",
+        "RSS Feed": "http://rssfeeds.detroitnews.com/detroit/home"
+    },
+    {
+        "ID": 53,
+        "date": "2021-07-18 02:11:00",
+        "Name": "Richmond Times",
+        "RSS Feed": "https://richmond.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc"
+    },
+    {
+        "ID": 62.0,
+        "Name": "The press-Enterprise (Environment)",
+        "RSS Feed": "https://www.pe.com/news/environment/feed/",
+        "date": "2021-08-27 13:03:09"
+    },
+    {
+        "ID": 63,
+        "date": "2021-07-20 01:34:06",
+        "Name": "The press-Enterprise",
+        "RSS Feed": "https://www.pe.com/feed/"
+    },
+    {
+        "ID": 64,
+        "date": "2021-07-20 06:22:40",
+        "Name": "Las Vegas Review - Journal",
+        "RSS Feed": "https://www.reviewjournal.com/feed/"
+    },
+    {
+        "ID": 101,
+        "date": "2021-07-20 02:55:05",
+        "Name": "Washington Times",
+        "RSS Feed": "https://www.washingtontimes.com/rss/headlines/news/"
+    },
+    {
+        "ID": 104,
+        "date": "2021-07-20 07:15:00",
+        "Name": "The Daily Herald (Illinois)",
+        "RSS Feed": "https://www.dailyherald.com/rss/feed/?feed=news_top5"
+    },
+    {
+        "ID": 113.0,
+        "date": "2023-06-29 22:25:05",
+        "Name": "Talking Points Memo",
+        "RSS Feed": "https://talkingpointsmemo.com/feed/atom"
+    },
+    {
+        "ID": 419.0,
+        "date": "2021-08-23 12:00:00",
+        "Name": "The American Prospect",
+        "RSS Feed": "https://prospect.org/api/rss/all.rss"
+    },
+    {
+        "ID": 449,
+        "date": "2021-07-19 14:53:19",
+        "Name": "UN Dispatch",
+        "RSS Feed": "https://www.undispatch.com/feed/"
+    },
+    {
+        "ID": 798,
+        "date": "2021-07-19 22:13:22",
+        "Name": "FactCheck",
+        "RSS Feed": "https://www.factcheck.org/feed/"
+    },
+    {
+        "ID": 1093.0,
+        "Name": "BBC (Environment)",
+        "RSS Feed": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "date": "2021-08-12 00:22:09"
+    },
+    {
+        "ID": 1094,
+        "date": "2021-07-20 23:45:05",
+        "Name": "BBC UK",
+        "RSS Feed": "http://feeds.bbci.co.uk/news/rss.xml?edition=uk"
+    },
+    {
+        "ID": 1095,
+        "date": "2021-07-20 20:06:09",
+        "Name": "CNN",
+        "RSS Feed": "http://rss.cnn.com/rss/cnn_topstories.rss"
+    },
+    {
+        "ID": 1096,
+        "date": "2021-07-20 19:30:00",
+        "Name": "NPR",
+        "RSS Feed": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+        "ID": 1101,
+        "date": "2021-07-20 10:00:00",
+        "Name": "The New Yorker",
+        "RSS Feed": "https://www.newyorker.com/feed/everything"
+    },
+    {
+        "ID": 1112.0,
+        "date": "2023-06-29 20:55:52",
+        "Name": "Mother Jones",
+        "RSS Feed": "http://feeds.feedburner.com/motherjones/feed"
+    },
+    {
+        "ID": 1113.0,
+        "Name": "Mother Jones",
+        "RSS Feed": "https://www.motherjones.com/environment/feed/",
+        "date": "2021-08-12 10:00:06"
+    },
+    {
+        "ID": 1133,
+        "date": "2021-07-08 22:00:10"
+    },
+    {
+        "ID": 1317,
+        "date": "2021-07-08 16:44:52"
+    },
+    {
+        "ID": 1392.0,
+        "date": "2021-08-26 07:00:00",
+        "Name": "Portland Tribune",
+        "RSS Feed": "https://pamplinmedia.com/component/obrss/portland-tribune"
+    },
+    {
+        "ID": 1707,
+        "date": "2021-07-07 00:25:02"
+    },
+    {
+        "ID": 1708.0,
+        "date": "2023-06-30 03:45:00",
+        "Name": "Deutsche Welle",
+        "RSS Feed": "https://rss.dw.com/rdf/rss-en-all"
+    },
+    {
+        "ID": 1709.0,
+        "Name": "Deutsche Welle (Environment)",
+        "RSS Feed": "https://rss.dw.com/xml/rss_en_environment",
+        "date": "2021-08-12 13:02:00"
+    },
+    {
+        "ID": 1755,
+        "date": "2021-07-07 05:12:56"
+    },
+    {
+        "ID": 4425,
+        "date": "2021-07-06 22:45:16"
+    },
+    {
+        "ID": 4434,
+        "date": "2021-07-07 00:19:33"
+    },
+    {
+        "ID": 4456,
+        "date": "2021-07-06 19:00:00"
+    },
+    {
+        "ID": 4469,
+        "date": "2021-07-07 00:33:00"
+    },
+    {
+        "ID": 4763,
+        "date": "2021-07-07 05:10:40"
+    },
+    {
+        "ID": 5521,
+        "date": "2021-07-07 04:04:10"
+    },
+    {
+        "ID": 5527,
+        "date": "2021-07-07 04:00:00"
+    },
+    {
+        "ID": 5534.0,
+        "Name": "VTDigger (Environment)",
+        "RSS Feed": "https://vtdigger.org/category/environment/feed/",
+        "date": "2021-08-11 00:03:59"
+    },
+    {
+        "ID": 5846,
+        "date": "2021-07-06 23:00:04"
+    },
+    {
+        "ID": 5869,
+        "date": "2020-03-01 13:16:43"
+    },
+    {
+        "ID": 6218,
+        "date": "2021-07-23 17:16:08",
+        "Name": "Buzzfeed",
+        "RSS Feed": "https://www.buzzfeed.com/index.xml"
+    },
+    {
+        "ID": 7333,
+        "date": "2021-07-06 23:59:32"
+    },
+    {
+        "ID": 18267.0,
+        "Name": "Politico Europe (Energy & Climate)",
+        "RSS Feed": "https://www.politico.eu/section/energy/feed/",
+        "date": "2021-08-11 16:57:23"
+    },
+    {
+        "ID": 18268,
+        "date": "2021-06-10 15:00:00"
+    },
+    {
+        "ID": 18269,
+        "Name": "Politico (Energy & Climate)",
+        "RSS Feed": "https://rss.politico.com/energy.xml",
+        "date": "2021-08-09 08:01:42"
+    },
+    {
+        "ID": 18380.0,
+        "date": "2023-06-30 00:50:00",
+        "Name": "Digital Trends",
+        "RSS Feed": "https://www.digitaltrends.com/feed/"
+    },
+    {
+        "ID": 18641,
+        "Name": "UCSUSA",
+        "RSS Feed": "https://ucsusa.org/rss.xml",
+        "date": "2021-07-13 21:23:55"
+    },
+    {
+        "ID": 19184.0,
+        "Name": "The Connecticut Mirror (Environment)",
+        "RSS Feed": "https://ctmirror.org/all-news/environment/feed/",
+        "date": "2021-08-11 09:00:16"
+    },
+    {
+        "ID": 19320.0,
+        "date": "2021-09-27 14:00:00",
+        "Name": "Sydney Morning Herald (Environment)",
+        "RSS Feed": "https://www.smh.com.au/rss/environment.xml"
+    },
+    {
+        "ID": 19672.0,
+        "Name": "PR Newswire (Environment)",
+        "RSS Feed": "https://www.prnewswire.com/rss/environment-latest-news/environment-latest-news-list.rss",
+        "date": "2023-06-30 02:00:00"
+    },
+    {
+        "ID": 19833.0,
+        "Name": "Der Spiegel (Environment - English)",
+        "RSS Feed": "https://www.spiegel.de/thema/environment_en/index.rss",
+        "date": "2021-08-12 09:47:00"
+    },
+    {
+        "ID": 20120.0,
+        "date": "2021-08-11 02:05:26",
+        "Name": "NJ Advance Media, incl. The (New Jersey) Star-Ledger & NJ.com",
+        "RSS Feed": "http://rssfeeds.northjersey.com/northjerseyenvironment"
+    },
+    {
+        "ID": 20982,
+        "date": "2021-07-07 02:43:37"
+    },
+    {
+        "ID": 22249,
+        "date": "2021-07-07 04:37:36"
+    },
+    {
+        "ID": 23022.0,
+        "Name": "PR Watch",
+        "RSS Feed": "https://www.prwatch.org/taxonomy/term/4/all/feed",
+        "date": "2021-08-05 22:17:01"
+    },
+    {
+        "ID": 25459,
+        "date": "2021-07-07 05:33:06"
+    },
+    {
+        "ID": 26140,
+        "date": "2021-07-07 00:11:15"
+    },
+    {
+        "ID": 26301,
+        "date": "2021-07-07 04:40:18"
+    },
+    {
+        "ID": 27302.0,
+        "date": "2023-06-30 01:46:06",
+        "Name": "KQED",
+        "RSS Feed": "https://ww2.kqed.org/news/feed/"
+    },
+    {
+        "ID": 29440.0,
+        "Name": "Tucson Sentinel (Environment)",
+        "RSS Feed": "http://www.tucsonsentinel.com/category/rss/environment/",
+        "date": "2021-08-11 00:07:08"
+    },
+    {
+        "ID": 31137,
+        "date": "2021-07-07 15:21:25"
+    },
+    {
+        "ID": 32090.0,
+        "Name": "Law 360",
+        "RSS Feed": "https://www.law360.com/energy/rss",
+        "date": "2021-09-27 07:41:45"
+    },
+    {
+        "ID": 32411.0,
+        "date": "2021-09-27 09:30:00",
+        "Name": "Greenbiz",
+        "RSS Feed": "https://www.greenbiz.com/rss.xml"
+    },
+    {
+        "ID": 32593.0,
+        "date": "2021-09-24 17:07:01",
+        "Name": "Yale Environment 360",
+        "RSS Feed": "https://e360.yale.edu/feed.xml"
+    },
+    {
+        "ID": 32929.0,
+        "date": "2021-09-25 13:30:53",
+        "Name": "Environmental Leader",
+        "RSS Feed": "https://www.environmentalleader.com/feed/"
+    },
+    {
+        "ID": 33451,
+        "date": "2021-07-08 01:32:22"
+    },
+    {
+        "ID": 33997.0,
+        "date": "2021-09-27 08:00:00",
+        "Name": "High Country News",
+        "RSS Feed": "https://www.hcn.org/rss/most-recent/rss.xml"
+    },
+    {
+        "ID": 34234,
+        "Name": "Clean Technica",
+        "RSS Feed": "https://cleantechnica.com/feed/",
+        "date": "2021-08-09 08:10:22"
+    },
+    {
+        "ID": 34683.0,
+        "Name": "Solar Industry Mag",
+        "RSS Feed": "https://solarindustrymag.com/feed",
+        "date": "2021-12-10 18:09:03"
+    },
+    {
+        "ID": 34711.0,
+        "Name": "Governors' Wind Energy Coalition",
+        "RSS Feed": "https://governorswindenergycoalition.org/feed/",
+        "date": "2021-12-10 15:11:54"
+    },
+    {
+        "ID": 34712.0,
+        "Name": "PV Tech",
+        "RSS Feed": "https://www.pv-tech.org/feed/",
+        "date": "2021-08-12 13:40:39"
+    },
+    {
+        "ID": 34754.0,
+        "date": "2021-08-12 13:00:00",
+        "Name": "InsideClimate News",
+        "RSS Feed": "https://insideclimatenews.org/feed/"
+    },
+    {
+        "ID": 38697.0,
+        "date": "2021-08-12 11:03:32",
+        "Name": "Die Zeit",
+        "RSS Feed": "https://newsfeed.zeit.de/wissen/umwelt/index"
+    },
+    {
+        "ID": 38927,
+        "date": "2021-07-23 09:17:04",
+        "Name": "Trouw",
+        "RSS Feed": "https://www.trouw.nl/duurzaamheid-natuur/rss.xml"
+    },
+    {
+        "ID": 39072.0,
+        "Name": "Le Monde",
+        "RSS Feed": "https://www.lemonde.fr/rss/une.xml",
+        "date": "2021-08-12 13:31:31"
+    },
+    {
+        "ID": 39120,
+        "Name": "Le Figaro",
+        "RSS Feed": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "date": "2021-07-23 13:47:30"
+    },
+    {
+        "ID": 39203.0,
+        "Name": "La Presse (Canada)",
+        "RSS Feed": "https://www.lapresse.ca/actualites/environnement/rss",
+        "date": "2021-08-12 09:00:00"
+    },
+    {
+        "ID": 39983.0,
+        "Name": "Frankfurter Rundschau",
+        "RSS Feed": "https://www.fr.de/zukunft/rssfeed.rdf",
+        "date": "2021-09-25 08:50:00"
+    },
+    {
+        "ID": 40476.0,
+        "Name": "Les Echos",
+        "RSS Feed": "https://syndication.lesechos.fr/rss/rss_energie-environnement.xml",
+        "date": "2021-09-27 14:18:50"
+    },
+    {
+        "ID": 41526.0,
+        "Name": "El Mundo",
+        "RSS Feed": "https://e00-elmundo.uecdn.es/rss/ciencia-y-salud/medio-ambiente.xml",
+        "date": "2021-09-27 14:23:06"
+    },
+    {
+        "ID": 53090.0,
+        "Name": "EcoWatch",
+        "RSS Feed": "https://www.ecowatch.com/feeds/feed.rss",
+        "date": "2021-09-27 14:17:39"
+    },
+    {
+        "ID": 56072.0,
+        "Name": "ANSA ",
+        "RSS Feed": "https://www.ansa.it/canale_ambiente/notizie/ambiente_rss.xml",
+        "date": "2021-09-27 12:06:44"
+    },
+    {
+        "ID": 56729.0,
+        "Name": "Renewable Energy World",
+        "RSS Feed": "https://www.renewableenergyworld.com/feed/",
+        "date": "2021-12-10 16:18:57"
+    },
+    {
+        "ID": 71914.0,
+        "Name": "HuffPost (Environment)",
+        "RSS Feed": "https://chaski.huffpost.com/us/auto/vertical/green",
+        "date": "2021-08-11 21:12:05"
+    },
+    {
+        "ID": 73767.0,
+        "Name": "The Guardian (Environment)",
+        "RSS Feed": "https://www.theguardian.com/us/environment/rss",
+        "date": "2021-08-12 13:47:08"
+    },
+    {
+        "ID": 90966,
+        "Name": "Green Car Reports",
+        "RSS Feed": "https://feeds.highgearmedia.com/?sites=GreenCarReports",
+        "date": "2021-08-09 15:00:00"
+    },
+    {
+        "ID": 93911,
+        "Name": "autonews.com",
+        "RSS Feed": "http://feeds.feedburner.com/autonews/BreakingNews",
+        "date": "2021-08-09 06:38:55"
+    },
+    {
+        "ID": 94096,
+        "Name": "Maritime Executive",
+        "RSS Feed": "https://maritime-executive.com/articles.rss",
+        "date": "2021-07-27 04:23:05"
+    },
+    {
+        "ID": 96713.0,
+        "Name": "Ceres",
+        "RSS Feed": "https://ceres.org/rss.xml",
+        "date": "2020-11-04 11:00:07"
+    },
+    {
+        "ID": 97389.0,
+        "Name": "Carbon Brief",
+        "RSS Feed": "https://www.carbonbrief.org/feed",
+        "date": "2021-08-11 15:26:41"
+    },
+    {
+        "ID": 97708.0,
+        "Name": "Recharge News",
+        "RSS Feed": "https://services.rechargenews.com/api/feed/rss",
+        "date": "2021-08-12 11:37:25"
+    },
+    {
+        "ID": 156869.0,
+        "Name": "Yale Climate Connections",
+        "RSS Feed": "https://yaleclimateconnections.org/feed/",
+        "date": "2021-08-12 11:05:00"
+    },
+    {
+        "ID": 157135.0,
+        "Name": "Energy & Policy Institute",
+        "RSS Feed": "https://www.energyandpolicy.org/feed/",
+        "date": "2021-12-06 14:29:03"
+    },
+    {
+        "ID": 178063.0,
+        "Name": "Utility Dive",
+        "RSS Feed": "https://www.utilitydive.com/feeds/news/",
+        "date": "2021-12-10 16:07:00"
+    },
+    {
+        "ID": 187592.0,
+        "Name": "Wind Power Monthly",
+        "RSS Feed": "https://www.windpowermonthly.com/rss/news",
+        "date": "2021-12-10 14:45:35"
+    },
+    {
+        "ID": 221315.0,
+        "Name": "Energy News Network",
+        "RSS Feed": "https://energynews.us/feed/",
+        "date": "2021-08-23 09:59:00"
+    },
+    {
+        "ID": 222053.0,
+        "Name": "Offshore Wind Biz",
+        "RSS Feed": "https://www.offshorewind.biz/feed/",
+        "date": "2021-12-10 14:07:53"
+    },
+    {
+        "ID": 225283.0,
+        "Name": "We Mean Business Coalition",
+        "RSS Feed": "https://www.wemeanbusinesscoalition.org/feed/",
+        "date": "2021-08-06 18:19:22"
+    },
+    {
+        "ID": 236156.0,
+        "Name": "Power Energy International",
+        "RSS Feed": "https://www.powerengineeringint.com/feed/",
+        "date": "2021-12-11 02:58:00"
+    },
+    {
+        "ID": 240387.0,
+        "Name": "Climate Change Business Journal (EBI)",
+        "RSS Feed": "https://ebionline.org/feed/",
+        "date": "2021-08-03 23:44:12"
+    },
+    {
+        "ID": 249144.0,
+        "Name": "Bloomberg NEF",
+        "RSS Feed": "https://about.bnef.com/feed/",
+        "date": "2021-12-07 15:12:20"
+    },
+    {
+        "ID": 252885.0,
+        "Name": "Bellona",
+        "RSS Feed": "https://bellona.org/feed",
+        "date": "2021-08-11 17:41:57"
+    },
+    {
+        "ID": 254470.0,
+        "Name": "GlacierHub",
+        "RSS Feed": "https://news.climate.columbia.edu/feed/",
+        "date": "2021-08-11 18:26:07"
+    },
+    {
+        "ID": 279586.0,
+        "Name": "Climate Home",
+        "RSS Feed": "https://feeds.feedburner.com/ClimateHome",
+        "date": "2021-12-10 15:53:06"
+    },
+    {
+        "ID": 368664,
+        "Name": "Freight Waves",
+        "RSS Feed": "https://www.freightwaves.com/feed",
+        "date": "2021-07-27 11:00:00"
+    },
+    {
+        "ID": 557862,
+        "Name": "Unearthed ",
+        "RSS Feed": "https://unearthed.greenpeace.org/feed/",
+        "date": "2021-07-07 18:00:17"
+    },
+    {
+        "ID": 667276.0,
+        "Name": "Oil & Gas Climate Initiative",
+        "RSS Feed": "https://www.ogci.com/feed/",
+        "date": "2021-08-05 09:29:30"
+    },
+    {
+        "ID": 786080.0,
+        "Name": "DeSmog",
+        "RSS Feed": "https://www.desmog.com/feed/",
+        "date": "2021-08-12 13:07:05"
+    },
+    {
+        "ID": 908755.0,
+        "Name": "Oil & Gas Investor",
+        "RSS Feed": "https://www.hartenergy.com/rss.xml",
+        "date": "2021-08-23 13:28:02"
+    },
+    {
+        "ID": 1331833.0,
+        "Name": "Grist",
+        "RSS Feed": "https://grist.org/feed/",
+        "date": "2023-06-29 21:58:51"
+    },
+    {
+        "ID": 1361609.0,
+        "Name": "The Hill (Environment)",
+        "RSS Feed": "https://thehill.com/taxonomy/term/28/feed",
+        "date": "2021-08-12 12:37:13"
+    },
+    {
+        "ID": 1380308.0,
+        "Name": "The Planetary Press",
+        "RSS Feed": "https://www.theplanetarypress.com/feed/",
+        "date": "2021-08-11 12:00:00"
+    },
+    {
+        "ID": 1390274.0,
+        "Name": "Agri-Pulse",
+        "RSS Feed": "https://www.agri-pulse.com/rss/topic/71-news",
+        "date": "2023-06-29 13:39:38"
+    },
+    {
+        "ID": 1391367.0,
+        "Name": "Oil Review Middle East",
+        "RSS Feed": "https://oilreviewmiddleeast.com/cache/rss.xml",
+        "date": "2021-08-23 08:08:09"
+    },
+    {
+        "ID": 1392047.0,
+        "Name": "EURACTIV",
+        "RSS Feed": "https://www.euractiv.com/feed",
+        "date": "2021-08-12 05:00:18"
+    },
+    {
+        "ID": 1392053.0,
+        "Name": "Climate + Capital",
+        "RSS Feed": "https://www.climateandcapitalmedia.com/feed/",
+        "date": "2021-08-11 01:21:06"
+    },
+    {
+        "ID": 1392056.0,
+        "Name": "Sentient Media",
+        "RSS Feed": "https://sentientmedia.org/feed/",
+        "date": "2021-08-11 07:01:00"
+    },
+    {
+        "ID": 1392067.0,
+        "Name": "Inside Oil and Gas",
+        "RSS Feed": "https://insideindustry.com/index.php?format=feed&type=rss",
+        "date": "2021-08-19 09:07:03"
+    },
+    {
+        "ID": 1392076.0,
+        "Name": "Agri-Pulse (Environment)",
+        "RSS Feed": "https://www.agri-pulse.com/rss/topic/21692-environment",
+        "date": "2021-08-11 18:15:00"
+    },
+    {
+        "ID": 1392086.0,
+        "Name": "World Maritime News",
+        "RSS Feed": "https://www.offshore-energy.biz/feed/",
+        "date": "2021-08-23 14:35:47"
+    },
+    {
+        "ID": 1392100.0,
+        "Name": "All About Shipping",
+        "RSS Feed": "https://allaboutshipping.co.uk/feed/",
+        "date": "2023-06-29 20:21:30"
+    },
+    {
+        "ID": 1392106.0,
+        "Name": "Renewable Energy News Biz",
+        "RSS Feed": "http://feeds.feedburner.com/Renews-RenewableEnergyNews",
+        "date": "2021-08-23 14:14:12"
+    },
+    {
+        "ID": 1392127,
+        "Name": "Splash 247",
+        "RSS Feed": "https://splash247.com/feed/",
+        "date": "2021-07-27 11:20:37"
+    },
+    {
+        "ID": 1392156.0,
+        "Name": "Fleet News UK",
+        "RSS Feed": "https://www.fleetnews.co.uk/rss.xml",
+        "date": "2023-06-30 03:02:00"
+    },
+    {
+        "ID": 1392191,
+        "Name": "The Motorship",
+        "RSS Feed": "https://www.motorship.com/rss-feeds?page=346630",
+        "date": "2021-07-26 12:06:07"
+    },
+    {
+        "ID": 1392194.0,
+        "Name": "International Cement Review",
+        "RSS Feed": "https://www.cemnet.com/news/rss",
+        "date": "2021-08-12 08:30:14"
+    },
+    {
+        "ID": 1392196.0,
+        "Name": "Mining MX",
+        "RSS Feed": "https://www.miningmx.com/feed/",
+        "date": "2021-08-12 13:52:38"
+    }
+]
